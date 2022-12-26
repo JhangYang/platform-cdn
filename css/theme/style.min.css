@@ -1,1 +1,4383 @@
- body {font-family: 'Noto Sans TC', sans-serif;font-weight: 400;letter-spacing: .3px;overflow-x: hidden;overflow-y: scroll;}hr {margin-top: 2rem;margin-bottom: 2rem;border: 0;border-top: 1px solid var(--white-100);height: 0;}.text-dark {color: #2e384d !important;}.text-red {color: #da3e53 !important;}.text-small {font-size: .75rem;}.text-10 {font-size: 10px;}.text-11 {font-size: 11px;}.text-12 {font-size: 12px;}.text-13 {font-size: 13px;}.text-14 {font-size: 14px;}.text-15 {font-size: 15px;}.text-16 {font-size: 16px;}.text-17 {font-size: 17px;}.text-18 {font-size: 18px;}.text-19 {font-size: 19px;}.text-20 {font-size: 20px;}.text-21 {font-size: 21px;}.text-22 {font-size: 22px;}.text-23 {font-size: 23px;}.text-24 {font-size: 24px;}.text-25 {font-size: 25px;}.text-26 {font-size: 26px;}.text-27 {font-size: 27px;}.text-28 {font-size: 28px;}.text-29 {font-size: 29px;}.text-30 {font-size: 30px;}.text-31 {font-size: 31px;}.text-32 {font-size: 32px;}.text-33 {font-size: 33px;}.text-34 {font-size: 34px;}.text-35 {font-size: 35px;}.text-36 {font-size: 36px;}.text-37 {font-size: 37px;}.text-38 {font-size: 38px;}.text-39 {font-size: 39px;}.text-40 {font-size: 40px;}.text-41 {font-size: 41px;}.text-42 {font-size: 42px;}.text-43 {font-size: 43px;}.text-44 {font-size: 44px;}.text-45 {font-size: 45px;}.text-46 {font-size: 46px;}.text-47 {font-size: 47px;}.text-48 {font-size: 48px;}.text-49 {font-size: 49px;}.text-50 {font-size: 50px;}.text-51 {font-size: 51px;}.text-52 {font-size: 52px;}.text-53 {font-size: 53px;}.text-54 {font-size: 54px;}.text-55 {font-size: 55px;}.text-56 {font-size: 56px;}.text-57 {font-size: 57px;}.text-58 {font-size: 58px;}.text-59 {font-size: 59px;}.text-60 {font-size: 60px;}.text-61 {font-size: 61px;}.text-62 {font-size: 62px;}.text-63 {font-size: 63px;}.text-64 {font-size: 64px;}.text-65 {font-size: 65px;}.text-66 {font-size: 66px;}.text-67 {font-size: 67px;}.text-68 {font-size: 68px;}.text-69 {font-size: 69px;}.text-70 {font-size: 70px;}.text-71 {font-size: 71px;}.text-72 {font-size: 72px;}.text-73 {font-size: 73px;}.text-74 {font-size: 74px;}.text-75 {font-size: 75px;}.text-76 {font-size: 76px;}.text-77 {font-size: 77px;}.text-78 {font-size: 78px;}.font-weight-300 {font-weight: 300;}.font-weight-301 {font-weight: 301;}.font-weight-302 {font-weight: 302;}.font-weight-303 {font-weight: 303;}.font-weight-304 {font-weight: 304;}.font-weight-305 {font-weight: 305;}.font-weight-306 {font-weight: 306;}.font-weight-307 {font-weight: 307;}.font-weight-308 {font-weight: 308;}.font-weight-309 {font-weight: 309;}.font-weight-310 {font-weight: 310;}.font-weight-311 {font-weight: 311;}.font-weight-312 {font-weight: 312;}.font-weight-313 {font-weight: 313;}.font-weight-314 {font-weight: 314;}.font-weight-315 {font-weight: 315;}.font-weight-316 {font-weight: 316;}.font-weight-317 {font-weight: 317;}.font-weight-318 {font-weight: 318;}.font-weight-319 {font-weight: 319;}.font-weight-320 {font-weight: 320;}.font-weight-321 {font-weight: 321;}.font-weight-322 {font-weight: 322;}.font-weight-323 {font-weight: 323;}.font-weight-324 {font-weight: 324;}.font-weight-325 {font-weight: 325;}.font-weight-326 {font-weight: 326;}.font-weight-327 {font-weight: 327;}.font-weight-328 {font-weight: 328;}.font-weight-329 {font-weight: 329;}.font-weight-330 {font-weight: 330;}.font-weight-331 {font-weight: 331;}.font-weight-332 {font-weight: 332;}.font-weight-333 {font-weight: 333;}.font-weight-334 {font-weight: 334;}.font-weight-335 {font-weight: 335;}.font-weight-336 {font-weight: 336;}.font-weight-337 {font-weight: 337;}.font-weight-338 {font-weight: 338;}.font-weight-339 {font-weight: 339;}.font-weight-340 {font-weight: 340;}.font-weight-341 {font-weight: 341;}.font-weight-342 {font-weight: 342;}.font-weight-343 {font-weight: 343;}.font-weight-344 {font-weight: 344;}.font-weight-345 {font-weight: 345;}.font-weight-346 {font-weight: 346;}.font-weight-347 {font-weight: 347;}.font-weight-348 {font-weight: 348;}.font-weight-349 {font-weight: 349;}.font-weight-350 {font-weight: 350;}.font-weight-351 {font-weight: 351;}.font-weight-352 {font-weight: 352;}.font-weight-353 {font-weight: 353;}.font-weight-354 {font-weight: 354;}.font-weight-355 {font-weight: 355;}.font-weight-356 {font-weight: 356;}.font-weight-357 {font-weight: 357;}.font-weight-358 {font-weight: 358;}.font-weight-359 {font-weight: 359;}.font-weight-360 {font-weight: 360;}.font-weight-361 {font-weight: 361;}.font-weight-362 {font-weight: 362;}.font-weight-363 {font-weight: 363;}.font-weight-364 {font-weight: 364;}.font-weight-365 {font-weight: 365;}.font-weight-366 {font-weight: 366;}.font-weight-367 {font-weight: 367;}.font-weight-368 {font-weight: 368;}.font-weight-369 {font-weight: 369;}.font-weight-370 {font-weight: 370;}.font-weight-371 {font-weight: 371;}.font-weight-372 {font-weight: 372;}.font-weight-373 {font-weight: 373;}.font-weight-374 {font-weight: 374;}.font-weight-375 {font-weight: 375;}.font-weight-376 {font-weight: 376;}.font-weight-377 {font-weight: 377;}.font-weight-378 {font-weight: 378;}.font-weight-379 {font-weight: 379;}.font-weight-380 {font-weight: 380;}.font-weight-381 {font-weight: 381;}.font-weight-382 {font-weight: 382;}.font-weight-383 {font-weight: 383;}.font-weight-384 {font-weight: 384;}.font-weight-385 {font-weight: 385;}.font-weight-386 {font-weight: 386;}.font-weight-387 {font-weight: 387;}.font-weight-388 {font-weight: 388;}.font-weight-389 {font-weight: 389;}.font-weight-390 {font-weight: 390;}.font-weight-391 {font-weight: 391;}.font-weight-392 {font-weight: 392;}.font-weight-393 {font-weight: 393;}.font-weight-394 {font-weight: 394;}.font-weight-395 {font-weight: 395;}.font-weight-396 {font-weight: 396;}.font-weight-397 {font-weight: 397;}.font-weight-398 {font-weight: 398;}.font-weight-399 {font-weight: 399;}.font-weight-400 {font-weight: 400;}.font-weight-401 {font-weight: 401;}.font-weight-402 {font-weight: 402;}.font-weight-403 {font-weight: 403;}.font-weight-404 {font-weight: 404;}.font-weight-405 {font-weight: 405;}.font-weight-406 {font-weight: 406;}.font-weight-407 {font-weight: 407;}.font-weight-408 {font-weight: 408;}.font-weight-409 {font-weight: 409;}.font-weight-410 {font-weight: 410;}.font-weight-411 {font-weight: 411;}.font-weight-412 {font-weight: 412;}.font-weight-413 {font-weight: 413;}.font-weight-414 {font-weight: 414;}.font-weight-415 {font-weight: 415;}.font-weight-416 {font-weight: 416;}.font-weight-417 {font-weight: 417;}.font-weight-418 {font-weight: 418;}.font-weight-419 {font-weight: 419;}.font-weight-420 {font-weight: 420;}.font-weight-421 {font-weight: 421;}.font-weight-422 {font-weight: 422;}.font-weight-423 {font-weight: 423;}.font-weight-424 {font-weight: 424;}.font-weight-425 {font-weight: 425;}.font-weight-426 {font-weight: 426;}.font-weight-427 {font-weight: 427;}.font-weight-428 {font-weight: 428;}.font-weight-429 {font-weight: 429;}.font-weight-430 {font-weight: 430;}.font-weight-431 {font-weight: 431;}.font-weight-432 {font-weight: 432;}.font-weight-433 {font-weight: 433;}.font-weight-434 {font-weight: 434;}.font-weight-435 {font-weight: 435;}.font-weight-436 {font-weight: 436;}.font-weight-437 {font-weight: 437;}.font-weight-438 {font-weight: 438;}.font-weight-439 {font-weight: 439;}.font-weight-440 {font-weight: 440;}.font-weight-441 {font-weight: 441;}.font-weight-442 {font-weight: 442;}.font-weight-443 {font-weight: 443;}.font-weight-444 {font-weight: 444;}.font-weight-445 {font-weight: 445;}.font-weight-446 {font-weight: 446;}.font-weight-447 {font-weight: 447;}.font-weight-448 {font-weight: 448;}.font-weight-449 {font-weight: 449;}.font-weight-450 {font-weight: 450;}.font-weight-451 {font-weight: 451;}.font-weight-452 {font-weight: 452;}.font-weight-453 {font-weight: 453;}.font-weight-454 {font-weight: 454;}.font-weight-455 {font-weight: 455;}.font-weight-456 {font-weight: 456;}.font-weight-457 {font-weight: 457;}.font-weight-458 {font-weight: 458;}.font-weight-459 {font-weight: 459;}.font-weight-460 {font-weight: 460;}.font-weight-461 {font-weight: 461;}.font-weight-462 {font-weight: 462;}.font-weight-463 {font-weight: 463;}.font-weight-464 {font-weight: 464;}.font-weight-465 {font-weight: 465;}.font-weight-466 {font-weight: 466;}.font-weight-467 {font-weight: 467;}.font-weight-468 {font-weight: 468;}.font-weight-469 {font-weight: 469;}.font-weight-470 {font-weight: 470;}.font-weight-471 {font-weight: 471;}.font-weight-472 {font-weight: 472;}.font-weight-473 {font-weight: 473;}.font-weight-474 {font-weight: 474;}.font-weight-475 {font-weight: 475;}.font-weight-476 {font-weight: 476;}.font-weight-477 {font-weight: 477;}.font-weight-478 {font-weight: 478;}.font-weight-479 {font-weight: 479;}.font-weight-480 {font-weight: 480;}.font-weight-481 {font-weight: 481;}.font-weight-482 {font-weight: 482;}.font-weight-483 {font-weight: 483;}.font-weight-484 {font-weight: 484;}.font-weight-485 {font-weight: 485;}.font-weight-486 {font-weight: 486;}.font-weight-487 {font-weight: 487;}.font-weight-488 {font-weight: 488;}.font-weight-489 {font-weight: 489;}.font-weight-490 {font-weight: 490;}.font-weight-491 {font-weight: 491;}.font-weight-492 {font-weight: 492;}.font-weight-493 {font-weight: 493;}.font-weight-494 {font-weight: 494;}.font-weight-495 {font-weight: 495;}.font-weight-496 {font-weight: 496;}.font-weight-497 {font-weight: 497;}.font-weight-498 {font-weight: 498;}.font-weight-499 {font-weight: 499;}.font-weight-500 {font-weight: 500;}.font-weight-501 {font-weight: 501;}.font-weight-502 {font-weight: 502;}.font-weight-503 {font-weight: 503;}.font-weight-504 {font-weight: 504;}.font-weight-505 {font-weight: 505;}.font-weight-506 {font-weight: 506;}.font-weight-507 {font-weight: 507;}.font-weight-508 {font-weight: 508;}.font-weight-509 {font-weight: 509;}.font-weight-510 {font-weight: 510;}.font-weight-511 {font-weight: 511;}.font-weight-512 {font-weight: 512;}.font-weight-513 {font-weight: 513;}.font-weight-514 {font-weight: 514;}.font-weight-515 {font-weight: 515;}.font-weight-516 {font-weight: 516;}.font-weight-517 {font-weight: 517;}.font-weight-518 {font-weight: 518;}.font-weight-519 {font-weight: 519;}.font-weight-520 {font-weight: 520;}.font-weight-521 {font-weight: 521;}.font-weight-522 {font-weight: 522;}.font-weight-523 {font-weight: 523;}.font-weight-524 {font-weight: 524;}.font-weight-525 {font-weight: 525;}.font-weight-526 {font-weight: 526;}.font-weight-527 {font-weight: 527;}.font-weight-528 {font-weight: 528;}.font-weight-529 {font-weight: 529;}.font-weight-530 {font-weight: 530;}.font-weight-531 {font-weight: 531;}.font-weight-532 {font-weight: 532;}.font-weight-533 {font-weight: 533;}.font-weight-534 {font-weight: 534;}.font-weight-535 {font-weight: 535;}.font-weight-536 {font-weight: 536;}.font-weight-537 {font-weight: 537;}.font-weight-538 {font-weight: 538;}.font-weight-539 {font-weight: 539;}.font-weight-540 {font-weight: 540;}.font-weight-541 {font-weight: 541;}.font-weight-542 {font-weight: 542;}.font-weight-543 {font-weight: 543;}.font-weight-544 {font-weight: 544;}.font-weight-545 {font-weight: 545;}.font-weight-546 {font-weight: 546;}.font-weight-547 {font-weight: 547;}.font-weight-548 {font-weight: 548;}.font-weight-549 {font-weight: 549;}.font-weight-550 {font-weight: 550;}.font-weight-551 {font-weight: 551;}.font-weight-552 {font-weight: 552;}.font-weight-553 {font-weight: 553;}.font-weight-554 {font-weight: 554;}.font-weight-555 {font-weight: 555;}.font-weight-556 {font-weight: 556;}.font-weight-557 {font-weight: 557;}.font-weight-558 {font-weight: 558;}.font-weight-559 {font-weight: 559;}.font-weight-560 {font-weight: 560;}.font-weight-561 {font-weight: 561;}.font-weight-562 {font-weight: 562;}.font-weight-563 {font-weight: 563;}.font-weight-564 {font-weight: 564;}.font-weight-565 {font-weight: 565;}.font-weight-566 {font-weight: 566;}.font-weight-567 {font-weight: 567;}.font-weight-568 {font-weight: 568;}.font-weight-569 {font-weight: 569;}.font-weight-570 {font-weight: 570;}.font-weight-571 {font-weight: 571;}.font-weight-572 {font-weight: 572;}.font-weight-573 {font-weight: 573;}.font-weight-574 {font-weight: 574;}.font-weight-575 {font-weight: 575;}.font-weight-576 {font-weight: 576;}.font-weight-577 {font-weight: 577;}.font-weight-578 {font-weight: 578;}.font-weight-579 {font-weight: 579;}.font-weight-580 {font-weight: 580;}.font-weight-581 {font-weight: 581;}.font-weight-582 {font-weight: 582;}.font-weight-583 {font-weight: 583;}.font-weight-584 {font-weight: 584;}.font-weight-585 {font-weight: 585;}.font-weight-586 {font-weight: 586;}.font-weight-587 {font-weight: 587;}.font-weight-588 {font-weight: 588;}.font-weight-589 {font-weight: 589;}.font-weight-590 {font-weight: 590;}.font-weight-591 {font-weight: 591;}.font-weight-592 {font-weight: 592;}.font-weight-593 {font-weight: 593;}.font-weight-594 {font-weight: 594;}.font-weight-595 {font-weight: 595;}.font-weight-596 {font-weight: 596;}.font-weight-597 {font-weight: 597;}.font-weight-598 {font-weight: 598;}.font-weight-599 {font-weight: 599;}.font-weight-600 {font-weight: 600;}.font-weight-601 {font-weight: 601;}.font-weight-602 {font-weight: 602;}.font-weight-603 {font-weight: 603;}.font-weight-604 {font-weight: 604;}.font-weight-605 {font-weight: 605;}.font-weight-606 {font-weight: 606;}.font-weight-607 {font-weight: 607;}.font-weight-608 {font-weight: 608;}.font-weight-609 {font-weight: 609;}.font-weight-610 {font-weight: 610;}.font-weight-611 {font-weight: 611;}.font-weight-612 {font-weight: 612;}.font-weight-613 {font-weight: 613;}.font-weight-614 {font-weight: 614;}.font-weight-615 {font-weight: 615;}.font-weight-616 {font-weight: 616;}.font-weight-617 {font-weight: 617;}.font-weight-618 {font-weight: 618;}.font-weight-619 {font-weight: 619;}.font-weight-620 {font-weight: 620;}.font-weight-621 {font-weight: 621;}.font-weight-622 {font-weight: 622;}.font-weight-623 {font-weight: 623;}.font-weight-624 {font-weight: 624;}.font-weight-625 {font-weight: 625;}.font-weight-626 {font-weight: 626;}.font-weight-627 {font-weight: 627;}.font-weight-628 {font-weight: 628;}.font-weight-629 {font-weight: 629;}.font-weight-630 {font-weight: 630;}.font-weight-631 {font-weight: 631;}.font-weight-632 {font-weight: 632;}.font-weight-633 {font-weight: 633;}.font-weight-634 {font-weight: 634;}.font-weight-635 {font-weight: 635;}.font-weight-636 {font-weight: 636;}.font-weight-637 {font-weight: 637;}.font-weight-638 {font-weight: 638;}.font-weight-639 {font-weight: 639;}.font-weight-640 {font-weight: 640;}.font-weight-641 {font-weight: 641;}.font-weight-642 {font-weight: 642;}.font-weight-643 {font-weight: 643;}.font-weight-644 {font-weight: 644;}.font-weight-645 {font-weight: 645;}.font-weight-646 {font-weight: 646;}.font-weight-647 {font-weight: 647;}.font-weight-648 {font-weight: 648;}.font-weight-649 {font-weight: 649;}.font-weight-650 {font-weight: 650;}.font-weight-651 {font-weight: 651;}.font-weight-652 {font-weight: 652;}.font-weight-653 {font-weight: 653;}.font-weight-654 {font-weight: 654;}.font-weight-655 {font-weight: 655;}.font-weight-656 {font-weight: 656;}.font-weight-657 {font-weight: 657;}.font-weight-658 {font-weight: 658;}.font-weight-659 {font-weight: 659;}.font-weight-660 {font-weight: 660;}.font-weight-661 {font-weight: 661;}.font-weight-662 {font-weight: 662;}.font-weight-663 {font-weight: 663;}.font-weight-664 {font-weight: 664;}.font-weight-665 {font-weight: 665;}.font-weight-666 {font-weight: 666;}.font-weight-667 {font-weight: 667;}.font-weight-668 {font-weight: 668;}.font-weight-669 {font-weight: 669;}.font-weight-670 {font-weight: 670;}.font-weight-671 {font-weight: 671;}.font-weight-672 {font-weight: 672;}.font-weight-673 {font-weight: 673;}.font-weight-674 {font-weight: 674;}.font-weight-675 {font-weight: 675;}.font-weight-676 {font-weight: 676;}.font-weight-677 {font-weight: 677;}.font-weight-678 {font-weight: 678;}.font-weight-679 {font-weight: 679;}.font-weight-680 {font-weight: 680;}.font-weight-681 {font-weight: 681;}.font-weight-682 {font-weight: 682;}.font-weight-683 {font-weight: 683;}.font-weight-684 {font-weight: 684;}.font-weight-685 {font-weight: 685;}.font-weight-686 {font-weight: 686;}.font-weight-687 {font-weight: 687;}.font-weight-688 {font-weight: 688;}.font-weight-689 {font-weight: 689;}.font-weight-690 {font-weight: 690;}.font-weight-691 {font-weight: 691;}.font-weight-692 {font-weight: 692;}.font-weight-693 {font-weight: 693;}.font-weight-694 {font-weight: 694;}.font-weight-695 {font-weight: 695;}.font-weight-696 {font-weight: 696;}.font-weight-697 {font-weight: 697;}.font-weight-698 {font-weight: 698;}.font-weight-699 {font-weight: 699;}.font-weight-700 {font-weight: 700;}.font-weight-701 {font-weight: 701;}.font-weight-702 {font-weight: 702;}.font-weight-703 {font-weight: 703;}.font-weight-704 {font-weight: 704;}.font-weight-705 {font-weight: 705;}.font-weight-706 {font-weight: 706;}.font-weight-707 {font-weight: 707;}.font-weight-708 {font-weight: 708;}.font-weight-709 {font-weight: 709;}.font-weight-710 {font-weight: 710;}.font-weight-711 {font-weight: 711;}.font-weight-712 {font-weight: 712;}.font-weight-713 {font-weight: 713;}.font-weight-714 {font-weight: 714;}.font-weight-715 {font-weight: 715;}.font-weight-716 {font-weight: 716;}.font-weight-717 {font-weight: 717;}.font-weight-718 {font-weight: 718;}.font-weight-719 {font-weight: 719;}.font-weight-720 {font-weight: 720;}.font-weight-721 {font-weight: 721;}.font-weight-722 {font-weight: 722;}.font-weight-723 {font-weight: 723;}.font-weight-724 {font-weight: 724;}.font-weight-725 {font-weight: 725;}.font-weight-726 {font-weight: 726;}.font-weight-727 {font-weight: 727;}.font-weight-728 {font-weight: 728;}.font-weight-729 {font-weight: 729;}.font-weight-730 {font-weight: 730;}.font-weight-731 {font-weight: 731;}.font-weight-732 {font-weight: 732;}.font-weight-733 {font-weight: 733;}.font-weight-734 {font-weight: 734;}.font-weight-735 {font-weight: 735;}.font-weight-736 {font-weight: 736;}.font-weight-737 {font-weight: 737;}.font-weight-738 {font-weight: 738;}.font-weight-739 {font-weight: 739;}.font-weight-740 {font-weight: 740;}.font-weight-741 {font-weight: 741;}.font-weight-742 {font-weight: 742;}.font-weight-743 {font-weight: 743;}.font-weight-744 {font-weight: 744;}.font-weight-745 {font-weight: 745;}.font-weight-746 {font-weight: 746;}.font-weight-747 {font-weight: 747;}.font-weight-748 {font-weight: 748;}.font-weight-749 {font-weight: 749;}.font-weight-750 {font-weight: 750;}.font-weight-751 {font-weight: 751;}.font-weight-752 {font-weight: 752;}.font-weight-753 {font-weight: 753;}.font-weight-754 {font-weight: 754;}.font-weight-755 {font-weight: 755;}.font-weight-756 {font-weight: 756;}.font-weight-757 {font-weight: 757;}.font-weight-758 {font-weight: 758;}.font-weight-759 {font-weight: 759;}.font-weight-760 {font-weight: 760;}.font-weight-761 {font-weight: 761;}.font-weight-762 {font-weight: 762;}.font-weight-763 {font-weight: 763;}.font-weight-764 {font-weight: 764;}.font-weight-765 {font-weight: 765;}.font-weight-766 {font-weight: 766;}.font-weight-767 {font-weight: 767;}.font-weight-768 {font-weight: 768;}.font-weight-769 {font-weight: 769;}.font-weight-770 {font-weight: 770;}.font-weight-771 {font-weight: 771;}.font-weight-772 {font-weight: 772;}.font-weight-773 {font-weight: 773;}.font-weight-774 {font-weight: 774;}.font-weight-775 {font-weight: 775;}.font-weight-776 {font-weight: 776;}.font-weight-777 {font-weight: 777;}.font-weight-778 {font-weight: 778;}.font-weight-779 {font-weight: 779;}.font-weight-780 {font-weight: 780;}.font-weight-781 {font-weight: 781;}.font-weight-782 {font-weight: 782;}.font-weight-783 {font-weight: 783;}.font-weight-784 {font-weight: 784;}.font-weight-785 {font-weight: 785;}.font-weight-786 {font-weight: 786;}.font-weight-787 {font-weight: 787;}.font-weight-788 {font-weight: 788;}.font-weight-789 {font-weight: 789;}.font-weight-790 {font-weight: 790;}.font-weight-791 {font-weight: 791;}.font-weight-792 {font-weight: 792;}.font-weight-793 {font-weight: 793;}.font-weight-794 {font-weight: 794;}.font-weight-795 {font-weight: 795;}.font-weight-796 {font-weight: 796;}.font-weight-797 {font-weight: 797;}.font-weight-798 {font-weight: 798;}.font-weight-799 {font-weight: 799;}.font-weight-800 {font-weight: 800;}.font-weight-801 {font-weight: 801;}.font-weight-802 {font-weight: 802;}.font-weight-803 {font-weight: 803;}.font-weight-804 {font-weight: 804;}.font-weight-805 {font-weight: 805;}.font-weight-806 {font-weight: 806;}.font-weight-807 {font-weight: 807;}.font-weight-808 {font-weight: 808;}.font-weight-809 {font-weight: 809;}.font-weight-810 {font-weight: 810;}.font-weight-811 {font-weight: 811;}.font-weight-812 {font-weight: 812;}.font-weight-813 {font-weight: 813;}.font-weight-814 {font-weight: 814;}.font-weight-815 {font-weight: 815;}.font-weight-816 {font-weight: 816;}.font-weight-817 {font-weight: 817;}.font-weight-818 {font-weight: 818;}.font-weight-819 {font-weight: 819;}.font-weight-820 {font-weight: 820;}.font-weight-821 {font-weight: 821;}.font-weight-822 {font-weight: 822;}.font-weight-823 {font-weight: 823;}.font-weight-824 {font-weight: 824;}.font-weight-825 {font-weight: 825;}.font-weight-826 {font-weight: 826;}.font-weight-827 {font-weight: 827;}.font-weight-828 {font-weight: 828;}.font-weight-829 {font-weight: 829;}.font-weight-830 {font-weight: 830;}.font-weight-831 {font-weight: 831;}.font-weight-832 {font-weight: 832;}.font-weight-833 {font-weight: 833;}.font-weight-834 {font-weight: 834;}.font-weight-835 {font-weight: 835;}.font-weight-836 {font-weight: 836;}.font-weight-837 {font-weight: 837;}.font-weight-838 {font-weight: 838;}.font-weight-839 {font-weight: 839;}.font-weight-840 {font-weight: 840;}.font-weight-841 {font-weight: 841;}.font-weight-842 {font-weight: 842;}.font-weight-843 {font-weight: 843;}.font-weight-844 {font-weight: 844;}.font-weight-845 {font-weight: 845;}.font-weight-846 {font-weight: 846;}.font-weight-847 {font-weight: 847;}.font-weight-848 {font-weight: 848;}.font-weight-849 {font-weight: 849;}.font-weight-850 {font-weight: 850;}.font-weight-851 {font-weight: 851;}.font-weight-852 {font-weight: 852;}.font-weight-853 {font-weight: 853;}.font-weight-854 {font-weight: 854;}.font-weight-855 {font-weight: 855;}.font-weight-856 {font-weight: 856;}.font-weight-857 {font-weight: 857;}.font-weight-858 {font-weight: 858;}.font-weight-859 {font-weight: 859;}.font-weight-860 {font-weight: 860;}.font-weight-861 {font-weight: 861;}.font-weight-862 {font-weight: 862;}.font-weight-863 {font-weight: 863;}.font-weight-864 {font-weight: 864;}.font-weight-865 {font-weight: 865;}.font-weight-866 {font-weight: 866;}.font-weight-867 {font-weight: 867;}.font-weight-868 {font-weight: 868;}.font-weight-869 {font-weight: 869;}.font-weight-870 {font-weight: 870;}.font-weight-871 {font-weight: 871;}.font-weight-872 {font-weight: 872;}.font-weight-873 {font-weight: 873;}.font-weight-874 {font-weight: 874;}.font-weight-875 {font-weight: 875;}.font-weight-876 {font-weight: 876;}.font-weight-877 {font-weight: 877;}.font-weight-878 {font-weight: 878;}.font-weight-879 {font-weight: 879;}.font-weight-880 {font-weight: 880;}.font-weight-881 {font-weight: 881;}.font-weight-882 {font-weight: 882;}.font-weight-883 {font-weight: 883;}.font-weight-884 {font-weight: 884;}.font-weight-885 {font-weight: 885;}.font-weight-886 {font-weight: 886;}.font-weight-887 {font-weight: 887;}.font-weight-888 {font-weight: 888;}.font-weight-889 {font-weight: 889;}.font-weight-890 {font-weight: 890;}.font-weight-891 {font-weight: 891;}.font-weight-892 {font-weight: 892;}.font-weight-893 {font-weight: 893;}.font-weight-894 {font-weight: 894;}.font-weight-895 {font-weight: 895;}.font-weight-896 {font-weight: 896;}.font-weight-897 {font-weight: 897;}.font-weight-898 {font-weight: 898;}.font-weight-899 {font-weight: 899;}.font-weight-900 {font-weight: 900;}.m-0 {margin: 0px !important;}.mt-0 {margin-top: 0px !important;}.mr-0 {margin-right: 0px !important;}.ml-0 {margin-left: 0px !important;}.mx-0 {margin-left: 0px !important;margin-right: 0px !important;}.my-0 {margin-top: 0px !important;margin-bottom: 0px !important;}.p-0 {padding: 0px !important;}.pt-0 {padding-top: 0px !important;}.pr-0 {padding-right: 0px !important;}.pb-0 {padding-bottom: 0px !important;}.pl-0 {padding-left: 0px !important;}.px-0 {padding-left: 0px !important;padding-right: 0px !important;}.py-0 {padding-top: 0px !important;padding-bottom: 0px !important;}.m-8 {margin: 8px !important;}.mt-8 {margin-top: 8px !important;}.mr-8 {margin-right: 8px !important;}.mb-8 {margin-bottom: 8px !important;}.ml-8 {margin-left: 8px !important;}.mx-8 {margin-left: 8px !important;margin-right: 8px !important;}.my-8 {margin-top: 8px !important;margin-bottom: 8px !important;}.p-8 {padding: 8px !important;}.pt-8 {padding-top: 8px !important;}.pr-8 {padding-right: 8px !important;}.pb-8 {padding-bottom: 8px !important;}.pl-8 {padding-left: 8px !important;}.px-8 {padding-left: 8px !important;padding-right: 8px !important;}.py-8 {padding-top: 8px !important;padding-bottom: 8px !important;}.m-12 {margin: 12px !important;}.mt-12 {margin-top: 12px !important;}.mr-12 {margin-right: 12px !important;}.mb-12 {margin-bottom: 12px !important;}.ml-12 {margin-left: 12px !important;}.mx-12 {margin-left: 12px !important;margin-right: 12px !important;}.ms, .mx {margin-left: auto !important;}.my-12 {margin-top: 12px !important;margin-bottom: 12px !important;}.p-12 {padding: 12px !important;}.pt-12 {padding-top: 12px !important;}.pr-12 {padding-right: 12px !important;}.pb-12 {padding-bottom: 12px !important;}.pl-12 {padding-left: 12px !important;}.px-12 {padding-left: 12px !important;padding-right: 12px !important;}.py-12 {padding-top: 12px !important;padding-bottom: 12px !important;}.m-16 {margin: 16px !important;}.mt-16 {margin-top: 16px !important;}.mr-16 {margin-right: 16px !important;}.mb-16 {margin-bottom: 16px !important;}.ml-16 {margin-left: 16px !important;}.mx-16 {margin-left: 16px !important;margin-right: 16px !important;}.my-16 {margin-top: 16px !important;margin-bottom: 16px !important;}.p-16 {padding: 16px !important;}.pt-16 {padding-top: 16px !important;}.pr-16 {padding-right: 16px !important;}.pb-16 {padding-bottom: 16px !important;}.pl-16 {padding-left: 16px !important;}.px-16 {padding-left: 16px !important;padding-right: 16px !important;}.py-16 {padding-top: 16px !important;padding-bottom: 16px !important;}.m-24 {margin: 24px !important;}.mt-24 {margin-top: 24px !important;}.mr-24 {margin-right: 24px !important;}.mb-24 {margin-bottom: 24px !important;}.ml-24 {margin-left: 24px !important;}.mx-24 {margin-left: 24px !important;margin-right: 24px !important;}.my-24 {margin-top: 24px !important;margin-bottom: 24px !important;}.p-24 {padding: 24px !important;}.pt-24 {padding-top: 24px !important;}.pr-24 {padding-right: 24px !important;}.pb-24 {padding-bottom: 24px !important;}.pl-24 {padding-left: 24px !important;}.px-24 {padding-left: 24px !important;padding-right: 24px !important;}.py-24 {padding-top: 24px !important;padding-bottom: 24px !important;}.m-28 {margin: 28px !important;}.mt-28 {margin-top: 28px !important;}.mr-28 {margin-right: 28px !important;}.mb-28 {margin-bottom: 28px !important;}.ml-28 {margin-left: 28px !important;}.mx-28 {margin-left: 28px !important;margin-right: 28px !important;}.my-28 {margin-top: 28px !important;margin-bottom: 28px !important;}.p-28 {padding: 28px !important;}.pt-28 {padding-top: 28px !important;}.pr-28 {padding-right: 28px !important;}.pb-28 {padding-bottom: 28px !important;}.pl-28 {padding-left: 28px !important;}.px-28 {padding-left: 28px !important;padding-right: 28px !important;}.py-28 {padding-top: 28px !important;padding-bottom: 28px !important;}.m-32 {margin: 32px !important;}.mt-32 {margin-top: 32px !important;}.mr-32 {margin-right: 32px !important;}.mb-32 {margin-bottom: 32px !important;}.ml-32 {margin-left: 32px !important;}.mx-32 {margin-left: 32px !important;margin-right: 32px !important;}.my-32 {margin-top: 32px !important;margin-bottom: 32px !important;}.p-32 {padding: 32px !important;}.pt-32 {padding-top: 32px !important;}.pr-32 {padding-right: 32px !important;}.pb-32 {padding-bottom: 32px !important;}.pl-32 {padding-left: 32px !important;}.px-32 {padding-left: 32px !important;padding-right: 32px !important;}.py-32 {padding-top: 32px !important;padding-bottom: 32px !important;}.m-36 {margin: 36px !important;}.mt-36 {margin-top: 36px !important;}.mr-36 {margin-right: 36px !important;}.mb-36 {margin-bottom: 36px !important;}.ml-36 {margin-left: 36px !important;}.mx-36 {margin-left: 36px !important;margin-right: 36px !important;}.my-36 {margin-top: 36px !important;margin-bottom: 36px !important;}.p-36 {padding: 36px !important;}.pt-36 {padding-top: 36px !important;}.pr-36 {padding-right: 36px !important;}.pb-36 {padding-bottom: 36px !important;}.pl-36 {padding-left: 36px !important;}.px-36 {padding-left: 36px !important;padding-right: 36px !important;}.py-36 {padding-top: 36px !important;padding-bottom: 36px !important;}.m-40 {margin: 40px !important;}.mt-40 {margin-top: 40px !important;}.mr-40 {margin-right: 40px !important;}.mb-40 {margin-bottom: 40px !important;}.ml-40 {margin-left: 40px !important;}.mx-40 {margin-left: 40px !important;margin-right: 40px !important;}.my-40 {margin-top: 40px !important;margin-bottom: 40px !important;}.p-40 {padding: 40px !important;}.pt-40 {padding-top: 40px !important;}.pr-40 {padding-right: 40px !important;}.pb-40 {padding-bottom: 40px !important;}.pl-40 {padding-left: 40px !important;}.px-40 {padding-left: 40px !important;padding-right: 40px !important;}.py-40 {padding-top: 40px !important;padding-bottom: 40px !important;}.m-44 {margin: 44px !important;}.mt-44 {margin-top: 44px !important;}.mr-44 {margin-right: 44px !important;}.mb-44 {margin-bottom: 44px !important;}.ml-44 {margin-left: 44px !important;}.mx-44 {margin-left: 44px !important;margin-right: 44px !important;}.my-44 {margin-top: 44px !important;margin-bottom: 44px !important;}.p-44 {padding: 44px !important;}.pt-44 {padding-top: 44px !important;}.pr-44 {padding-right: 44px !important;}.pb-44 {padding-bottom: 44px !important;}.pl-44 {padding-left: 44px !important;}.px-44 {padding-left: 44px !important;padding-right: 44px !important;}.py-44 {padding-top: 44px !important;padding-bottom: 44px !important;}.m-48 {margin: 48px !important;}.mt-48 {margin-top: 48px !important;}.mr-48 {margin-right: 48px !important;}.mb-48 {margin-bottom: 48px !important;}.ml-48 {margin-left: 48px !important;}.mx-48 {margin-left: 48px !important;margin-right: 48px !important;}.my-48 {margin-top: 48px !important;margin-bottom: 48px !important;}.p-48 {padding: 48px !important;}.pt-48 {padding-top: 48px !important;}.pr-48 {padding-right: 48px !important;}.pb-48 {padding-bottom: 48px !important;}.pb-80 {padding-bottom: 80px;}.pl-48 {padding-left: 48px !important;}.px-48 {padding-left: 48px !important;padding-right: 48px !important;}.py-48 {padding-top: 48px !important;padding-bottom: 48px !important;}.m-auto {margin: auto !important;}.mx-auto {margin-left: auto !important;margin-right: auto !important;}.my-auto {margin-top: auto !important;margin-bottom: auto !important;}.auth-layout-wrap {display: flex;flex-direction: column;justify-content: center;align-items: center;min-height: 100vh;background-size: cover }.auth-layout-wrap .auth-content {min-height: 1px;max-width: 440px;margin: auto;position: relative;width: 100%;padding-right: 1.5rem;padding-left: 1.5rem;padding-bottom: 3rem;}.auth-logo img, svg {width: 100px;height: 100px }@media (min-width:1024px) {.auth-layout-wrap .auth-content {min-width: 440px;}}@media (max-width:767px) {.auth-layout-wrap .auth-content {padding: 15px }.auth-right {padding: 80px 15px }}.app {width: 100%;}.main-content-wrap {width: 100%;float: right;margin-top: 80px;transition: all .24s ease-in-out;padding: 2rem 2rem 0;position: relative;min-height: calc(100vh - 80px);background: var(--white);}.main-content-wrap.sidenav-open {width: calc(100% - 120px);}.module-loader {position: fixed;background: var(--white-500);top: 0;left: 0;width: 100%;height: 100vh;z-index: 9;}.module-loader .loader, .module-loader .spinner {position: fixed;top: 45%;left: calc(50% + 56px);z-index: inherit;}@media (max-width: 576px) {.main-content-wrap {padding: 1.5rem;}.main-content-wrap.sidenav-open {width: 100%;}.main-content-wrap {margin-top: 70px;}.brand-logo-mini {display: none;}}.app-footer {margin-top: 2rem;background: var(--gray-200);padding: 1.25rem;border-top-left-radius: 10px;border-top-right-radius: 10px;}.app-footer .footer-bottom {width: 100%;}.app-footer .footer-bottom .logo {width: 1.2rem;height: 1rem;margin: 4px;}.layout-sidebar-vertical .main-content-wrap {width: 100%;min-height: 100vh;float: right;}.layout-sidebar-vertical .main-content-wrap .main-header {border-radius: 5px;height: 64px;}.layout-sidebar-vertical .main-content-wrap .main-header .header-toggle {display: flex;align-items: center;margin-left: 15px;}.layout-sidebar-vertical .main-content-wrap .main-header .header-toggle .sidebar-full-toggle, .layout-sidebar-vertical .main-content-wrap .main-header .header-toggle .sidebar-compact-toggle {vertical-align: middle;padding: 0;min-width: 0;width: 40px;height: 40px;flex-shrink: 0;background: none;}.layout-sidebar-vertical .main-content-wrap .main-header .header-toggle .sidebar-full-toggle i, .layout-sidebar-vertical .main-content-wrap .main-header .header-toggle .sidebar-compact-toggle i {background-repeat: no-repeat;display: inline-block;height: 24px;width: 24px;}.layout-sidebar-vertical .main-content-wrap .main-header .header-dropdown .dropdown-menu .dropdown-item {flex-flow: row;color: var(--gray);left: auto !important;right: 12px !important;}.brand-logo img {width: 20vh;margin-right: 5px;}.brand-logo-mini img {width: 60px;margin-right: 5px;}.layout-sidebar-vertical .sidebar-panel {height: 100vh;position: fixed;top: 0;left: -240px;width: 240px;z-index: 1000;box-shadow: 0 1px 15px rgba(0, 0, 0, 0.04), 0 1px 6px rgba(0, 0, 0, 0.04);background: var(--white);}.layout-sidebar-vertical .sidebar-panel .brand {height: 64px;display: flex;align-items: center;justify-content: center;}.layout-sidebar-vertical .sidebar-panel .brand img {height: 20px;}.layout-sidebar-vertical .sidebar-panel .sidebar-compact-switch {position: relative;width: 24px;height: 12px;border-radius: 10px;border: 1px solid var(--gray);transition: all 0.3s ease-in;cursor: pointer;}.layout-sidebar-vertical .sidebar-panel .sidebar-compact-switch span {position: absolute;left: 1px;top: 1px;display: inline-block;width: 8px;height: 8px;border-radius: 50%;background: var(--gray-500);transition: all 0.3s ease-in;}.layout-sidebar-vertical .sidebar-panel .scroll-nav {height: calc(100vh - 64px);}.layout-sidebar-vertical .sidebar-panel .side-nav .icon-menu-title, .layout-sidebar-vertical .sidebar-panel .side-nav .main-menu-title {color: var(--gray);font-size: 12px;padding: 16px 0 16px 16px;display: block;}.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul {padding: 0 12px;}.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li {list-style: none;font-size: 15px;}.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li a {color: var(--gray-900);display: flex;align-items: center;height: 35px;padding: 0px 15px;margin-bottom: 10px;cursor: pointer;}.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li a .nav-icon {margin-right: 10px;}.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li a .item-name {text-transform: capitalize;font-size: 15px;}.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li a:hover {text-decoration: none;}.app.sidebar-full.sidebar-closed .sidebar-panel {left: -240px;}.app.sidebar-full.sidebar-closed .main-content-wrap {width: 100%;}.app.sidebar-full .sidebar-panel {width: 240px;left: 0px;}.app.sidebar-full .sidebar-panel .brand-logo-mini {display: none;}.app.sidebar-full .main-content-wrap {width: calc(100% - 240px);padding: .6rem 1rem 0rem;}.app.sidebar-compact .sidebar-panel {width: 75px;left: 0;}.app.sidebar-compact .sidebar-panel .icon-menu-title, .app.sidebar-compact .sidebar-panel .main-menu-title, .app.sidebar-compact .sidebar-panel .item-name, .app.sidebar-compact .sidebar-panel .brand-logo {display: none;}.app.sidebar-compact .sidebar-panel .sidebar-compact-switch {display: none;}.app.sidebar-compact .sidebar-panel .icon-menu-item {flex-direction: column;padding: 0;}.app.sidebar-compact .sidebar-panel .icon-menu-item a {width: 100%;display: contents;}.app.sidebar-compact .sidebar-panel .icon-menu-item a i {padding: 5px;font-size: 30px;}.app.sidebar-compact .sidebar-panel .icon-menu-item a:hover {cursor: pointer;padding: 0px 10px;}.app.sidebar-compact .sidebar-panel .main-menu ul li a i {padding: 0;}.app.sidebar-compact .sidebar-panel .main-menu ul li a i a {width: 100%;display: contents;}.app.sidebar-compact .sidebar-panel .main-menu ul li a i a i {padding: 5px;font-size: 30px;}.app.sidebar-compact .sidebar-panel .main-menu ul li a i a:hover {cursor: pointer;padding: 0px 10px;}.app.sidebar-compact .sidebar-panel .main-menu ul li a .main-menu ul li a i {padding: 0;}.app.sidebar-compact .sidebar-panel .main-menu ul li a .main-menu .dropdown {display: none;}.app.sidebar-compact .sidebar-panel .main-menu .dropdown {display: none;}.app.sidebar-compact .main-content-wrap {width: calc(100% - 65px);padding: .6rem 1.5rem 0rem;}.app.sidebar-compact .main-content-wrap .main-header {height: 64px;}.main-content-wrap.sidebar-full-z-index {width: calc(100% - 65px) !important;z-index: -100;}ul.metismenu {position: relative;}.Ul_li--hover::before {content: "";background-color: var(--primary);position: absolute;height: 36px;width: 225px;border-top-right-radius: 25px;border-bottom-right-radius: 25px;opacity: 0.1;left: -233px;transition: all 400ms ease;}.Ul_li--hover:hover::before {left: 0px;transition: all 300ms ease;z-index: -1;}.metismenu .has-arrow:after {right: 2em !important;opacity: 0.6 !important;width: 0.6em !important;height: 0.6em !important;border-width: 2px 0 0 2px !important;}.header-toggle .mobile-menu-icon {display: none !important;}.has-arrow.without-after-element:after {content: none !important;}.sidebar-overlay {display: none;}@media only screen and (max-width: 1150px) {.sidebar-switch-open {left: 0px !important;}.app.sidebar-full .sidebar-panel {left: -240px;}.header-toggle .mobile-menu-icon {display: block !important;}.switch-overlay {height: calc(100vh - 70px);display: block;position: fixed;width: calc(100% - 240px);height: calc(100vh - 5px);bottom: 0;right: 0;background: rgba(0, 0, 0, 0);z-index: 20000;cursor: w-resize;}.app.sidebar-full .main-content-wrap {width: calc(100% - 0px);}.sidebar-compact-switch {display: none;}}@media only screen and (max-width: 530px) {.mobile-hide {display: none !important;}}.has-arrow.without-after-element:after {content: none !important;}.sidebar-panel, .main-content-wrap, .main-header {transition: all 0.2s ease-in;}.main-content-wrap {width: 100%;min-height: 100vh;float: right;}.main-content-wrap .main-content-body {padding: 0.66rem;}.app.sidebar-compact-onhover .sidebar-compact-switch {background: var(--primary);}.app.sidebar-compact-onhover .sidebar-compact-switch span {left: 14px;background: var(--white);}.bg-off-white {background-color: #f9f9f9;}.main-header {position: fixed;width: 100%;height: 80px;box-shadow: 0 1px 15px rgba(0, 0, 0, 0.04), 0 1px 6px rgba(0, 0, 0, 0.04);display: flex;align-items: center;flex-wrap: wrap;justify-content: space-between;background: var(--white);}.main-header {position: relative;}.main-header .menu-toggle {width: 90px;display: flex;flex-direction: column;align-items: center;cursor: pointer;margin-right: 12px;}.main-header .menu-toggle div {width: 24px;height: 1px;background: var(--gray-900);margin: 3px 0;}.main-header .menu-toggle i {width: 24px;height: 1px;margin: 3px 0;font-size: 24px;}.main-header .header-part-right {display: flex;align-items: center;}.main-header .header-part-right .user {margin-right: 2rem;}.main-header .header-part-right .user img {width: 36px;height: 36px;border-radius: 50%;}.main-header .header-icon {font-size: 19px;cursor: pointer;height: 36px;width: 36px;line-height: 36px;display: inline-block;text-align: center;border-radius: 8px;margin: 0 2px;}.main-header .header-icon:hover {background: #f8f9fa;}@media (max-width: 991px) {.main-header .menu-toggle {width: 24px;margin-right: 36px;}}@media (max-width: 580px) {.main-header {height: 70px;padding: 0 1.5rem;}.main-header .menu-toggle {width: 60px;}}@media (max-width: 360px) {.main-header .menu-toggle {margin: 0;}}.avatar-sm {width: 36px;height: 36px;}.avatar-md {width: 54px;height: 54px;}.avatar-lg {width: 80px;height: 80px;}.avatar-xl {width: 150px;height: 150px;}.avatar-sm-table {width: 20px;height: 20px;}.card-layout {text-align: left;overflow: hidden;border-radius: 10px;box-shadow: 0 4px 20px 1px rgba(0, 0, 0, 0.06), 0 1px 4px rgba(0, 0, 0, 0.08);border: 0;}.card-layout-title {font-size: 1rem;margin-bottom: .5rem;flex-direction: column;align-items: center;float: left;}.card-layout-header {height: 50px;}.breadcrumb {background: transparent;align-items: center;justify-content: space-between;padding-top: 0.5rem;padding-bottom: 0.5rem;margin-bottom: 0.2rem;}.breadcrumb>.breadcrumb-item+.breadcrumb-item:before {content: none;}.separator-breadcrumb {margin-bottom: 0.5rem;}select, button, textarea, input {vertical-align: baseline;}select.form-control {-webkit-appearance: none;}div {box-sizing: border-box;}a, a:focus, a:hover {color: var(--gray-900);text-decoration: none;}img {max-width: 100%;}table > tbody > tr > td.table-number {text-align: right;}.form-group {position: relative;}.form-group label {font-size: 12px;color: var(--gray);}.form-control {border: initial;outline: initial !important;border: 1px solid var(--gray-500);color: var(--gray-900);}.form-control::placeholder {color: var(--gray-500);}.form-control.rounded, .form-control.form-control-rounded, .form-control.form-control-text, .form-control.form-control-number {border-radius: 4px;}.form-control.form-control-text {text-align: left;}.form-control.form-control-number {text-align: right;}.form-row-separator {border: 6px;font-size: 18px;font-weight: 600;padding-bottom: .5em;}.form-control-separator {border-bottom: 1px dashed #ebedf2;margin: 15px 0;}.btn.rounded, .btn.btn-rounded {border-radius: 15px !important;}.switch {position: relative;display: inline-block;padding-left: 50px;height: 16px;}.switch span:not(.slider) {position: relative;top: -2px;cursor: pointer;}.switch input {opacity: 0;width: 0;height: 0;}.switch .slider {position: absolute;cursor: pointer;width: 42px;top: 0;left: 0;right: 0;bottom: 0;border-radius: 34px;background-color: var(--gray-300);-webkit-transition: 0.4s;transition: 0.4s;}.switch .slider:before {position: absolute;content: "";height: 24px;width: 24px;left: -1px;bottom: -4px;background-color: var(--white);-webkit-transition: 0.4s;transition: 0.4s;border-radius: 50%;box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);}.switch input:checked+.slider {background-color: var(--primary);}.switch input:focus+.slider {box-shadow: 0 0 1px var(--primary);}.switch input:checked+.slider:before {-webkit-transform: translateX(20px);-ms-transform: translateX(20px);transform: translateX(20px);}.switch-primary input:checked+.slider {background-color: var(--primary);}.user-profile .header-cover {position: relative;background-size: cover;background-repeat: no-repeat;height: 50px;}.user-profile .user-info {display: flex;flex-direction: column;justify-content: center;align-items: center;margin-top: 0px;z-index: 9;}.user-profile .profile-picture {border-radius: 50%;border: 4px solid var(--white);}.user-profile .profile-nav {justify-content: center;}.activity {position: relative;list-style: none;padding: 0;margin: 0;}.activity .activity-item {position: relative;width: 50%;display: inline-block;}.activity .activity-item:nth-child(even) {padding: 0 3rem 3rem 0;}.activity .activity-item:nth-child(even) .activity-badge {left: calc(100% - 24px);}.activity .activity-item:nth-child(odd) {float: right;padding: 0 0 3rem 3rem;margin-top: 6rem;}.activity .activity-item:nth-child(odd) .activity-badge {right: calc(100% - 24px);}.activity .activity-item .activity-badge {position: absolute;width: 48px;height: 48px;}.activity .activity-item .badge-icon {display: inline-block;text-align: center;font-size: 22px;border-radius: 50%;height: 100%;width: 100%;line-height: 48px;}.activity .activity-item .badge-img {display: inline-block;border-radius: 50%;height: 100%;width: 100%;}.activity .activity-group {position: relative;z-index: 99;padding: 0 0 2rem 0;}.activity .activity-line {position: absolute;content: "";width: 1px;height: 100%;background: var(--gray-300);left: 0;right: 0;margin: auto;}@media (max-width: 767px) {.user-profile .header-cover {height: 200px;}.activity .activity-item {width: 100%;padding: 4rem 0 3rem !important;}.activity .activity-item:nth-child(odd) {margin-top: 1rem;}.activity .activity-item .activity-badge {left: 0 !important;right: 0 !important;top: -16px;margin: auto;}.activity .activity-group {padding: 0 0 3rem;}}.nav-tabs {border-bottom: 1px solid var(--primary);}.nav-tabs .nav-item .nav-link {border: 0;padding: 1rem;}.nav-tabs .nav-item .nav-link.active {border: 1px solid transparent;background: var(--gray-100);border-color: var(--primary) var(--primary) var(--white);}.tab-content {padding: 0.8rem;}.panel_toolbox {float: right;min-width: 70px }.panel_toolbox>li {float: left;cursor: pointer }.panel_toolbox>li>a {padding: 5px;color: #C5C7CB;font-size: 20px }.panel_toolbox>li>a:hover {background: #F5F7FA }.panel_arrow_up {padding: 0;margin: 0;border: 0;cursor: pointer;position:fixed;right: 1rem;bottom: 1rem;display: none;}.panel_arrow_up::before, .panel_arrow_up::after {position: absolute;content: "";}.panel_arrow_up::focus {outline: none;}
+/*------------------------------------------------------------------
+ [Master Stylesheet]
+
+  Project:	Platform
+  Version:	1.0.0
+-------------------------------------------------------------------*/
+/*-------------------------------------------------------------------
+  ===== Table of Contents =====
+  * variables
+  * Fonts
+  * Container
+  * Auth Layout
+  * App Layout
+  * Main Content
+  * User Profile
+-------------------------------------------------------------------*/
+/* variables */
+/* :root {} */
+
+/*-------------------------------------------------------------------*/
+/* Container */
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 400;
+    letter-spacing: .3px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 0;
+    border-top: 1px solid var(--white-100);
+    height: 0;
+}
+
+.text-dark {
+    color: #2e384d !important;
+}
+
+.text-red {
+    color: #da3e53 !important;
+}
+
+.text-small {
+    font-size: .75rem;
+}
+
+.text-10 {
+    font-size: 10px;
+}
+
+.text-11 {
+    font-size: 11px;
+}
+
+.text-12 {
+    font-size: 12px;
+}
+
+.text-13 {
+    font-size: 13px;
+}
+
+.text-14 {
+    font-size: 14px;
+}
+
+.text-15 {
+    font-size: 15px;
+}
+
+.text-16 {
+    font-size: 16px;
+}
+
+.text-17 {
+    font-size: 17px;
+}
+
+.text-18 {
+    font-size: 18px;
+}
+
+.text-19 {
+    font-size: 19px;
+}
+
+.text-20 {
+    font-size: 20px;
+}
+
+.text-21 {
+    font-size: 21px;
+}
+
+.text-22 {
+    font-size: 22px;
+}
+
+.text-23 {
+    font-size: 23px;
+}
+
+.text-24 {
+    font-size: 24px;
+}
+
+.text-25 {
+    font-size: 25px;
+}
+
+.text-26 {
+    font-size: 26px;
+}
+
+.text-27 {
+    font-size: 27px;
+}
+
+.text-28 {
+    font-size: 28px;
+}
+
+.text-29 {
+    font-size: 29px;
+}
+
+.text-30 {
+    font-size: 30px;
+}
+
+.text-31 {
+    font-size: 31px;
+}
+
+.text-32 {
+    font-size: 32px;
+}
+
+.text-33 {
+    font-size: 33px;
+}
+
+.text-34 {
+    font-size: 34px;
+}
+
+.text-35 {
+    font-size: 35px;
+}
+
+.text-36 {
+    font-size: 36px;
+}
+
+.text-37 {
+    font-size: 37px;
+}
+
+.text-38 {
+    font-size: 38px;
+}
+
+.text-39 {
+    font-size: 39px;
+}
+
+.text-40 {
+    font-size: 40px;
+}
+
+.text-41 {
+    font-size: 41px;
+}
+
+.text-42 {
+    font-size: 42px;
+}
+
+.text-43 {
+    font-size: 43px;
+}
+
+.text-44 {
+    font-size: 44px;
+}
+
+.text-45 {
+    font-size: 45px;
+}
+
+.text-46 {
+    font-size: 46px;
+}
+
+.text-47 {
+    font-size: 47px;
+}
+
+.text-48 {
+    font-size: 48px;
+}
+
+.text-49 {
+    font-size: 49px;
+}
+
+.text-50 {
+    font-size: 50px;
+}
+
+.text-51 {
+    font-size: 51px;
+}
+
+.text-52 {
+    font-size: 52px;
+}
+
+.text-53 {
+    font-size: 53px;
+}
+
+.text-54 {
+    font-size: 54px;
+}
+
+.text-55 {
+    font-size: 55px;
+}
+
+.text-56 {
+    font-size: 56px;
+}
+
+.text-57 {
+    font-size: 57px;
+}
+
+.text-58 {
+    font-size: 58px;
+}
+
+.text-59 {
+    font-size: 59px;
+}
+
+.text-60 {
+    font-size: 60px;
+}
+
+.text-61 {
+    font-size: 61px;
+}
+
+.text-62 {
+    font-size: 62px;
+}
+
+.text-63 {
+    font-size: 63px;
+}
+
+.text-64 {
+    font-size: 64px;
+}
+
+.text-65 {
+    font-size: 65px;
+}
+
+.text-66 {
+    font-size: 66px;
+}
+
+.text-67 {
+    font-size: 67px;
+}
+
+.text-68 {
+    font-size: 68px;
+}
+
+.text-69 {
+    font-size: 69px;
+}
+
+.text-70 {
+    font-size: 70px;
+}
+
+.text-71 {
+    font-size: 71px;
+}
+
+.text-72 {
+    font-size: 72px;
+}
+
+.text-73 {
+    font-size: 73px;
+}
+
+.text-74 {
+    font-size: 74px;
+}
+
+.text-75 {
+    font-size: 75px;
+}
+
+.text-76 {
+    font-size: 76px;
+}
+
+.text-77 {
+    font-size: 77px;
+}
+
+.text-78 {
+    font-size: 78px;
+}
+
+.font-weight-300 {
+    font-weight: 300;
+}
+
+.font-weight-301 {
+    font-weight: 301;
+}
+
+.font-weight-302 {
+    font-weight: 302;
+}
+
+.font-weight-303 {
+    font-weight: 303;
+}
+
+.font-weight-304 {
+    font-weight: 304;
+}
+
+.font-weight-305 {
+    font-weight: 305;
+}
+
+.font-weight-306 {
+    font-weight: 306;
+}
+
+.font-weight-307 {
+    font-weight: 307;
+}
+
+.font-weight-308 {
+    font-weight: 308;
+}
+
+.font-weight-309 {
+    font-weight: 309;
+}
+
+.font-weight-310 {
+    font-weight: 310;
+}
+
+.font-weight-311 {
+    font-weight: 311;
+}
+
+.font-weight-312 {
+    font-weight: 312;
+}
+
+.font-weight-313 {
+    font-weight: 313;
+}
+
+.font-weight-314 {
+    font-weight: 314;
+}
+
+.font-weight-315 {
+    font-weight: 315;
+}
+
+.font-weight-316 {
+    font-weight: 316;
+}
+
+.font-weight-317 {
+    font-weight: 317;
+}
+
+.font-weight-318 {
+    font-weight: 318;
+}
+
+.font-weight-319 {
+    font-weight: 319;
+}
+
+.font-weight-320 {
+    font-weight: 320;
+}
+
+.font-weight-321 {
+    font-weight: 321;
+}
+
+.font-weight-322 {
+    font-weight: 322;
+}
+
+.font-weight-323 {
+    font-weight: 323;
+}
+
+.font-weight-324 {
+    font-weight: 324;
+}
+
+.font-weight-325 {
+    font-weight: 325;
+}
+
+.font-weight-326 {
+    font-weight: 326;
+}
+
+.font-weight-327 {
+    font-weight: 327;
+}
+
+.font-weight-328 {
+    font-weight: 328;
+}
+
+.font-weight-329 {
+    font-weight: 329;
+}
+
+.font-weight-330 {
+    font-weight: 330;
+}
+
+.font-weight-331 {
+    font-weight: 331;
+}
+
+.font-weight-332 {
+    font-weight: 332;
+}
+
+.font-weight-333 {
+    font-weight: 333;
+}
+
+.font-weight-334 {
+    font-weight: 334;
+}
+
+.font-weight-335 {
+    font-weight: 335;
+}
+
+.font-weight-336 {
+    font-weight: 336;
+}
+
+.font-weight-337 {
+    font-weight: 337;
+}
+
+.font-weight-338 {
+    font-weight: 338;
+}
+
+.font-weight-339 {
+    font-weight: 339;
+}
+
+.font-weight-340 {
+    font-weight: 340;
+}
+
+.font-weight-341 {
+    font-weight: 341;
+}
+
+.font-weight-342 {
+    font-weight: 342;
+}
+
+.font-weight-343 {
+    font-weight: 343;
+}
+
+.font-weight-344 {
+    font-weight: 344;
+}
+
+.font-weight-345 {
+    font-weight: 345;
+}
+
+.font-weight-346 {
+    font-weight: 346;
+}
+
+.font-weight-347 {
+    font-weight: 347;
+}
+
+.font-weight-348 {
+    font-weight: 348;
+}
+
+.font-weight-349 {
+    font-weight: 349;
+}
+
+.font-weight-350 {
+    font-weight: 350;
+}
+
+.font-weight-351 {
+    font-weight: 351;
+}
+
+.font-weight-352 {
+    font-weight: 352;
+}
+
+.font-weight-353 {
+    font-weight: 353;
+}
+
+.font-weight-354 {
+    font-weight: 354;
+}
+
+.font-weight-355 {
+    font-weight: 355;
+}
+
+.font-weight-356 {
+    font-weight: 356;
+}
+
+.font-weight-357 {
+    font-weight: 357;
+}
+
+.font-weight-358 {
+    font-weight: 358;
+}
+
+.font-weight-359 {
+    font-weight: 359;
+}
+
+.font-weight-360 {
+    font-weight: 360;
+}
+
+.font-weight-361 {
+    font-weight: 361;
+}
+
+.font-weight-362 {
+    font-weight: 362;
+}
+
+.font-weight-363 {
+    font-weight: 363;
+}
+
+.font-weight-364 {
+    font-weight: 364;
+}
+
+.font-weight-365 {
+    font-weight: 365;
+}
+
+.font-weight-366 {
+    font-weight: 366;
+}
+
+.font-weight-367 {
+    font-weight: 367;
+}
+
+.font-weight-368 {
+    font-weight: 368;
+}
+
+.font-weight-369 {
+    font-weight: 369;
+}
+
+.font-weight-370 {
+    font-weight: 370;
+}
+
+.font-weight-371 {
+    font-weight: 371;
+}
+
+.font-weight-372 {
+    font-weight: 372;
+}
+
+.font-weight-373 {
+    font-weight: 373;
+}
+
+.font-weight-374 {
+    font-weight: 374;
+}
+
+.font-weight-375 {
+    font-weight: 375;
+}
+
+.font-weight-376 {
+    font-weight: 376;
+}
+
+.font-weight-377 {
+    font-weight: 377;
+}
+
+.font-weight-378 {
+    font-weight: 378;
+}
+
+.font-weight-379 {
+    font-weight: 379;
+}
+
+.font-weight-380 {
+    font-weight: 380;
+}
+
+.font-weight-381 {
+    font-weight: 381;
+}
+
+.font-weight-382 {
+    font-weight: 382;
+}
+
+.font-weight-383 {
+    font-weight: 383;
+}
+
+.font-weight-384 {
+    font-weight: 384;
+}
+
+.font-weight-385 {
+    font-weight: 385;
+}
+
+.font-weight-386 {
+    font-weight: 386;
+}
+
+.font-weight-387 {
+    font-weight: 387;
+}
+
+.font-weight-388 {
+    font-weight: 388;
+}
+
+.font-weight-389 {
+    font-weight: 389;
+}
+
+.font-weight-390 {
+    font-weight: 390;
+}
+
+.font-weight-391 {
+    font-weight: 391;
+}
+
+.font-weight-392 {
+    font-weight: 392;
+}
+
+.font-weight-393 {
+    font-weight: 393;
+}
+
+.font-weight-394 {
+    font-weight: 394;
+}
+
+.font-weight-395 {
+    font-weight: 395;
+}
+
+.font-weight-396 {
+    font-weight: 396;
+}
+
+.font-weight-397 {
+    font-weight: 397;
+}
+
+.font-weight-398 {
+    font-weight: 398;
+}
+
+.font-weight-399 {
+    font-weight: 399;
+}
+
+.font-weight-400 {
+    font-weight: 400;
+}
+
+.font-weight-401 {
+    font-weight: 401;
+}
+
+.font-weight-402 {
+    font-weight: 402;
+}
+
+.font-weight-403 {
+    font-weight: 403;
+}
+
+.font-weight-404 {
+    font-weight: 404;
+}
+
+.font-weight-405 {
+    font-weight: 405;
+}
+
+.font-weight-406 {
+    font-weight: 406;
+}
+
+.font-weight-407 {
+    font-weight: 407;
+}
+
+.font-weight-408 {
+    font-weight: 408;
+}
+
+.font-weight-409 {
+    font-weight: 409;
+}
+
+.font-weight-410 {
+    font-weight: 410;
+}
+
+.font-weight-411 {
+    font-weight: 411;
+}
+
+.font-weight-412 {
+    font-weight: 412;
+}
+
+.font-weight-413 {
+    font-weight: 413;
+}
+
+.font-weight-414 {
+    font-weight: 414;
+}
+
+.font-weight-415 {
+    font-weight: 415;
+}
+
+.font-weight-416 {
+    font-weight: 416;
+}
+
+.font-weight-417 {
+    font-weight: 417;
+}
+
+.font-weight-418 {
+    font-weight: 418;
+}
+
+.font-weight-419 {
+    font-weight: 419;
+}
+
+.font-weight-420 {
+    font-weight: 420;
+}
+
+.font-weight-421 {
+    font-weight: 421;
+}
+
+.font-weight-422 {
+    font-weight: 422;
+}
+
+.font-weight-423 {
+    font-weight: 423;
+}
+
+.font-weight-424 {
+    font-weight: 424;
+}
+
+.font-weight-425 {
+    font-weight: 425;
+}
+
+.font-weight-426 {
+    font-weight: 426;
+}
+
+.font-weight-427 {
+    font-weight: 427;
+}
+
+.font-weight-428 {
+    font-weight: 428;
+}
+
+.font-weight-429 {
+    font-weight: 429;
+}
+
+.font-weight-430 {
+    font-weight: 430;
+}
+
+.font-weight-431 {
+    font-weight: 431;
+}
+
+.font-weight-432 {
+    font-weight: 432;
+}
+
+.font-weight-433 {
+    font-weight: 433;
+}
+
+.font-weight-434 {
+    font-weight: 434;
+}
+
+.font-weight-435 {
+    font-weight: 435;
+}
+
+.font-weight-436 {
+    font-weight: 436;
+}
+
+.font-weight-437 {
+    font-weight: 437;
+}
+
+.font-weight-438 {
+    font-weight: 438;
+}
+
+.font-weight-439 {
+    font-weight: 439;
+}
+
+.font-weight-440 {
+    font-weight: 440;
+}
+
+.font-weight-441 {
+    font-weight: 441;
+}
+
+.font-weight-442 {
+    font-weight: 442;
+}
+
+.font-weight-443 {
+    font-weight: 443;
+}
+
+.font-weight-444 {
+    font-weight: 444;
+}
+
+.font-weight-445 {
+    font-weight: 445;
+}
+
+.font-weight-446 {
+    font-weight: 446;
+}
+
+.font-weight-447 {
+    font-weight: 447;
+}
+
+.font-weight-448 {
+    font-weight: 448;
+}
+
+.font-weight-449 {
+    font-weight: 449;
+}
+
+.font-weight-450 {
+    font-weight: 450;
+}
+
+.font-weight-451 {
+    font-weight: 451;
+}
+
+.font-weight-452 {
+    font-weight: 452;
+}
+
+.font-weight-453 {
+    font-weight: 453;
+}
+
+.font-weight-454 {
+    font-weight: 454;
+}
+
+.font-weight-455 {
+    font-weight: 455;
+}
+
+.font-weight-456 {
+    font-weight: 456;
+}
+
+.font-weight-457 {
+    font-weight: 457;
+}
+
+.font-weight-458 {
+    font-weight: 458;
+}
+
+.font-weight-459 {
+    font-weight: 459;
+}
+
+.font-weight-460 {
+    font-weight: 460;
+}
+
+.font-weight-461 {
+    font-weight: 461;
+}
+
+.font-weight-462 {
+    font-weight: 462;
+}
+
+.font-weight-463 {
+    font-weight: 463;
+}
+
+.font-weight-464 {
+    font-weight: 464;
+}
+
+.font-weight-465 {
+    font-weight: 465;
+}
+
+.font-weight-466 {
+    font-weight: 466;
+}
+
+.font-weight-467 {
+    font-weight: 467;
+}
+
+.font-weight-468 {
+    font-weight: 468;
+}
+
+.font-weight-469 {
+    font-weight: 469;
+}
+
+.font-weight-470 {
+    font-weight: 470;
+}
+
+.font-weight-471 {
+    font-weight: 471;
+}
+
+.font-weight-472 {
+    font-weight: 472;
+}
+
+.font-weight-473 {
+    font-weight: 473;
+}
+
+.font-weight-474 {
+    font-weight: 474;
+}
+
+.font-weight-475 {
+    font-weight: 475;
+}
+
+.font-weight-476 {
+    font-weight: 476;
+}
+
+.font-weight-477 {
+    font-weight: 477;
+}
+
+.font-weight-478 {
+    font-weight: 478;
+}
+
+.font-weight-479 {
+    font-weight: 479;
+}
+
+.font-weight-480 {
+    font-weight: 480;
+}
+
+.font-weight-481 {
+    font-weight: 481;
+}
+
+.font-weight-482 {
+    font-weight: 482;
+}
+
+.font-weight-483 {
+    font-weight: 483;
+}
+
+.font-weight-484 {
+    font-weight: 484;
+}
+
+.font-weight-485 {
+    font-weight: 485;
+}
+
+.font-weight-486 {
+    font-weight: 486;
+}
+
+.font-weight-487 {
+    font-weight: 487;
+}
+
+.font-weight-488 {
+    font-weight: 488;
+}
+
+.font-weight-489 {
+    font-weight: 489;
+}
+
+.font-weight-490 {
+    font-weight: 490;
+}
+
+.font-weight-491 {
+    font-weight: 491;
+}
+
+.font-weight-492 {
+    font-weight: 492;
+}
+
+.font-weight-493 {
+    font-weight: 493;
+}
+
+.font-weight-494 {
+    font-weight: 494;
+}
+
+.font-weight-495 {
+    font-weight: 495;
+}
+
+.font-weight-496 {
+    font-weight: 496;
+}
+
+.font-weight-497 {
+    font-weight: 497;
+}
+
+.font-weight-498 {
+    font-weight: 498;
+}
+
+.font-weight-499 {
+    font-weight: 499;
+}
+
+.font-weight-500 {
+    font-weight: 500;
+}
+
+.font-weight-501 {
+    font-weight: 501;
+}
+
+.font-weight-502 {
+    font-weight: 502;
+}
+
+.font-weight-503 {
+    font-weight: 503;
+}
+
+.font-weight-504 {
+    font-weight: 504;
+}
+
+.font-weight-505 {
+    font-weight: 505;
+}
+
+.font-weight-506 {
+    font-weight: 506;
+}
+
+.font-weight-507 {
+    font-weight: 507;
+}
+
+.font-weight-508 {
+    font-weight: 508;
+}
+
+.font-weight-509 {
+    font-weight: 509;
+}
+
+.font-weight-510 {
+    font-weight: 510;
+}
+
+.font-weight-511 {
+    font-weight: 511;
+}
+
+.font-weight-512 {
+    font-weight: 512;
+}
+
+.font-weight-513 {
+    font-weight: 513;
+}
+
+.font-weight-514 {
+    font-weight: 514;
+}
+
+.font-weight-515 {
+    font-weight: 515;
+}
+
+.font-weight-516 {
+    font-weight: 516;
+}
+
+.font-weight-517 {
+    font-weight: 517;
+}
+
+.font-weight-518 {
+    font-weight: 518;
+}
+
+.font-weight-519 {
+    font-weight: 519;
+}
+
+.font-weight-520 {
+    font-weight: 520;
+}
+
+.font-weight-521 {
+    font-weight: 521;
+}
+
+.font-weight-522 {
+    font-weight: 522;
+}
+
+.font-weight-523 {
+    font-weight: 523;
+}
+
+.font-weight-524 {
+    font-weight: 524;
+}
+
+.font-weight-525 {
+    font-weight: 525;
+}
+
+.font-weight-526 {
+    font-weight: 526;
+}
+
+.font-weight-527 {
+    font-weight: 527;
+}
+
+.font-weight-528 {
+    font-weight: 528;
+}
+
+.font-weight-529 {
+    font-weight: 529;
+}
+
+.font-weight-530 {
+    font-weight: 530;
+}
+
+.font-weight-531 {
+    font-weight: 531;
+}
+
+.font-weight-532 {
+    font-weight: 532;
+}
+
+.font-weight-533 {
+    font-weight: 533;
+}
+
+.font-weight-534 {
+    font-weight: 534;
+}
+
+.font-weight-535 {
+    font-weight: 535;
+}
+
+.font-weight-536 {
+    font-weight: 536;
+}
+
+.font-weight-537 {
+    font-weight: 537;
+}
+
+.font-weight-538 {
+    font-weight: 538;
+}
+
+.font-weight-539 {
+    font-weight: 539;
+}
+
+.font-weight-540 {
+    font-weight: 540;
+}
+
+.font-weight-541 {
+    font-weight: 541;
+}
+
+.font-weight-542 {
+    font-weight: 542;
+}
+
+.font-weight-543 {
+    font-weight: 543;
+}
+
+.font-weight-544 {
+    font-weight: 544;
+}
+
+.font-weight-545 {
+    font-weight: 545;
+}
+
+.font-weight-546 {
+    font-weight: 546;
+}
+
+.font-weight-547 {
+    font-weight: 547;
+}
+
+.font-weight-548 {
+    font-weight: 548;
+}
+
+.font-weight-549 {
+    font-weight: 549;
+}
+
+.font-weight-550 {
+    font-weight: 550;
+}
+
+.font-weight-551 {
+    font-weight: 551;
+}
+
+.font-weight-552 {
+    font-weight: 552;
+}
+
+.font-weight-553 {
+    font-weight: 553;
+}
+
+.font-weight-554 {
+    font-weight: 554;
+}
+
+.font-weight-555 {
+    font-weight: 555;
+}
+
+.font-weight-556 {
+    font-weight: 556;
+}
+
+.font-weight-557 {
+    font-weight: 557;
+}
+
+.font-weight-558 {
+    font-weight: 558;
+}
+
+.font-weight-559 {
+    font-weight: 559;
+}
+
+.font-weight-560 {
+    font-weight: 560;
+}
+
+.font-weight-561 {
+    font-weight: 561;
+}
+
+.font-weight-562 {
+    font-weight: 562;
+}
+
+.font-weight-563 {
+    font-weight: 563;
+}
+
+.font-weight-564 {
+    font-weight: 564;
+}
+
+.font-weight-565 {
+    font-weight: 565;
+}
+
+.font-weight-566 {
+    font-weight: 566;
+}
+
+.font-weight-567 {
+    font-weight: 567;
+}
+
+.font-weight-568 {
+    font-weight: 568;
+}
+
+.font-weight-569 {
+    font-weight: 569;
+}
+
+.font-weight-570 {
+    font-weight: 570;
+}
+
+.font-weight-571 {
+    font-weight: 571;
+}
+
+.font-weight-572 {
+    font-weight: 572;
+}
+
+.font-weight-573 {
+    font-weight: 573;
+}
+
+.font-weight-574 {
+    font-weight: 574;
+}
+
+.font-weight-575 {
+    font-weight: 575;
+}
+
+.font-weight-576 {
+    font-weight: 576;
+}
+
+.font-weight-577 {
+    font-weight: 577;
+}
+
+.font-weight-578 {
+    font-weight: 578;
+}
+
+.font-weight-579 {
+    font-weight: 579;
+}
+
+.font-weight-580 {
+    font-weight: 580;
+}
+
+.font-weight-581 {
+    font-weight: 581;
+}
+
+.font-weight-582 {
+    font-weight: 582;
+}
+
+.font-weight-583 {
+    font-weight: 583;
+}
+
+.font-weight-584 {
+    font-weight: 584;
+}
+
+.font-weight-585 {
+    font-weight: 585;
+}
+
+.font-weight-586 {
+    font-weight: 586;
+}
+
+.font-weight-587 {
+    font-weight: 587;
+}
+
+.font-weight-588 {
+    font-weight: 588;
+}
+
+.font-weight-589 {
+    font-weight: 589;
+}
+
+.font-weight-590 {
+    font-weight: 590;
+}
+
+.font-weight-591 {
+    font-weight: 591;
+}
+
+.font-weight-592 {
+    font-weight: 592;
+}
+
+.font-weight-593 {
+    font-weight: 593;
+}
+
+.font-weight-594 {
+    font-weight: 594;
+}
+
+.font-weight-595 {
+    font-weight: 595;
+}
+
+.font-weight-596 {
+    font-weight: 596;
+}
+
+.font-weight-597 {
+    font-weight: 597;
+}
+
+.font-weight-598 {
+    font-weight: 598;
+}
+
+.font-weight-599 {
+    font-weight: 599;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.font-weight-601 {
+    font-weight: 601;
+}
+
+.font-weight-602 {
+    font-weight: 602;
+}
+
+.font-weight-603 {
+    font-weight: 603;
+}
+
+.font-weight-604 {
+    font-weight: 604;
+}
+
+.font-weight-605 {
+    font-weight: 605;
+}
+
+.font-weight-606 {
+    font-weight: 606;
+}
+
+.font-weight-607 {
+    font-weight: 607;
+}
+
+.font-weight-608 {
+    font-weight: 608;
+}
+
+.font-weight-609 {
+    font-weight: 609;
+}
+
+.font-weight-610 {
+    font-weight: 610;
+}
+
+.font-weight-611 {
+    font-weight: 611;
+}
+
+.font-weight-612 {
+    font-weight: 612;
+}
+
+.font-weight-613 {
+    font-weight: 613;
+}
+
+.font-weight-614 {
+    font-weight: 614;
+}
+
+.font-weight-615 {
+    font-weight: 615;
+}
+
+.font-weight-616 {
+    font-weight: 616;
+}
+
+.font-weight-617 {
+    font-weight: 617;
+}
+
+.font-weight-618 {
+    font-weight: 618;
+}
+
+.font-weight-619 {
+    font-weight: 619;
+}
+
+.font-weight-620 {
+    font-weight: 620;
+}
+
+.font-weight-621 {
+    font-weight: 621;
+}
+
+.font-weight-622 {
+    font-weight: 622;
+}
+
+.font-weight-623 {
+    font-weight: 623;
+}
+
+.font-weight-624 {
+    font-weight: 624;
+}
+
+.font-weight-625 {
+    font-weight: 625;
+}
+
+.font-weight-626 {
+    font-weight: 626;
+}
+
+.font-weight-627 {
+    font-weight: 627;
+}
+
+.font-weight-628 {
+    font-weight: 628;
+}
+
+.font-weight-629 {
+    font-weight: 629;
+}
+
+.font-weight-630 {
+    font-weight: 630;
+}
+
+.font-weight-631 {
+    font-weight: 631;
+}
+
+.font-weight-632 {
+    font-weight: 632;
+}
+
+.font-weight-633 {
+    font-weight: 633;
+}
+
+.font-weight-634 {
+    font-weight: 634;
+}
+
+.font-weight-635 {
+    font-weight: 635;
+}
+
+.font-weight-636 {
+    font-weight: 636;
+}
+
+.font-weight-637 {
+    font-weight: 637;
+}
+
+.font-weight-638 {
+    font-weight: 638;
+}
+
+.font-weight-639 {
+    font-weight: 639;
+}
+
+.font-weight-640 {
+    font-weight: 640;
+}
+
+.font-weight-641 {
+    font-weight: 641;
+}
+
+.font-weight-642 {
+    font-weight: 642;
+}
+
+.font-weight-643 {
+    font-weight: 643;
+}
+
+.font-weight-644 {
+    font-weight: 644;
+}
+
+.font-weight-645 {
+    font-weight: 645;
+}
+
+.font-weight-646 {
+    font-weight: 646;
+}
+
+.font-weight-647 {
+    font-weight: 647;
+}
+
+.font-weight-648 {
+    font-weight: 648;
+}
+
+.font-weight-649 {
+    font-weight: 649;
+}
+
+.font-weight-650 {
+    font-weight: 650;
+}
+
+.font-weight-651 {
+    font-weight: 651;
+}
+
+.font-weight-652 {
+    font-weight: 652;
+}
+
+.font-weight-653 {
+    font-weight: 653;
+}
+
+.font-weight-654 {
+    font-weight: 654;
+}
+
+.font-weight-655 {
+    font-weight: 655;
+}
+
+.font-weight-656 {
+    font-weight: 656;
+}
+
+.font-weight-657 {
+    font-weight: 657;
+}
+
+.font-weight-658 {
+    font-weight: 658;
+}
+
+.font-weight-659 {
+    font-weight: 659;
+}
+
+.font-weight-660 {
+    font-weight: 660;
+}
+
+.font-weight-661 {
+    font-weight: 661;
+}
+
+.font-weight-662 {
+    font-weight: 662;
+}
+
+.font-weight-663 {
+    font-weight: 663;
+}
+
+.font-weight-664 {
+    font-weight: 664;
+}
+
+.font-weight-665 {
+    font-weight: 665;
+}
+
+.font-weight-666 {
+    font-weight: 666;
+}
+
+.font-weight-667 {
+    font-weight: 667;
+}
+
+.font-weight-668 {
+    font-weight: 668;
+}
+
+.font-weight-669 {
+    font-weight: 669;
+}
+
+.font-weight-670 {
+    font-weight: 670;
+}
+
+.font-weight-671 {
+    font-weight: 671;
+}
+
+.font-weight-672 {
+    font-weight: 672;
+}
+
+.font-weight-673 {
+    font-weight: 673;
+}
+
+.font-weight-674 {
+    font-weight: 674;
+}
+
+.font-weight-675 {
+    font-weight: 675;
+}
+
+.font-weight-676 {
+    font-weight: 676;
+}
+
+.font-weight-677 {
+    font-weight: 677;
+}
+
+.font-weight-678 {
+    font-weight: 678;
+}
+
+.font-weight-679 {
+    font-weight: 679;
+}
+
+.font-weight-680 {
+    font-weight: 680;
+}
+
+.font-weight-681 {
+    font-weight: 681;
+}
+
+.font-weight-682 {
+    font-weight: 682;
+}
+
+.font-weight-683 {
+    font-weight: 683;
+}
+
+.font-weight-684 {
+    font-weight: 684;
+}
+
+.font-weight-685 {
+    font-weight: 685;
+}
+
+.font-weight-686 {
+    font-weight: 686;
+}
+
+.font-weight-687 {
+    font-weight: 687;
+}
+
+.font-weight-688 {
+    font-weight: 688;
+}
+
+.font-weight-689 {
+    font-weight: 689;
+}
+
+.font-weight-690 {
+    font-weight: 690;
+}
+
+.font-weight-691 {
+    font-weight: 691;
+}
+
+.font-weight-692 {
+    font-weight: 692;
+}
+
+.font-weight-693 {
+    font-weight: 693;
+}
+
+.font-weight-694 {
+    font-weight: 694;
+}
+
+.font-weight-695 {
+    font-weight: 695;
+}
+
+.font-weight-696 {
+    font-weight: 696;
+}
+
+.font-weight-697 {
+    font-weight: 697;
+}
+
+.font-weight-698 {
+    font-weight: 698;
+}
+
+.font-weight-699 {
+    font-weight: 699;
+}
+
+.font-weight-700 {
+    font-weight: 700;
+}
+
+.font-weight-701 {
+    font-weight: 701;
+}
+
+.font-weight-702 {
+    font-weight: 702;
+}
+
+.font-weight-703 {
+    font-weight: 703;
+}
+
+.font-weight-704 {
+    font-weight: 704;
+}
+
+.font-weight-705 {
+    font-weight: 705;
+}
+
+.font-weight-706 {
+    font-weight: 706;
+}
+
+.font-weight-707 {
+    font-weight: 707;
+}
+
+.font-weight-708 {
+    font-weight: 708;
+}
+
+.font-weight-709 {
+    font-weight: 709;
+}
+
+.font-weight-710 {
+    font-weight: 710;
+}
+
+.font-weight-711 {
+    font-weight: 711;
+}
+
+.font-weight-712 {
+    font-weight: 712;
+}
+
+.font-weight-713 {
+    font-weight: 713;
+}
+
+.font-weight-714 {
+    font-weight: 714;
+}
+
+.font-weight-715 {
+    font-weight: 715;
+}
+
+.font-weight-716 {
+    font-weight: 716;
+}
+
+.font-weight-717 {
+    font-weight: 717;
+}
+
+.font-weight-718 {
+    font-weight: 718;
+}
+
+.font-weight-719 {
+    font-weight: 719;
+}
+
+.font-weight-720 {
+    font-weight: 720;
+}
+
+.font-weight-721 {
+    font-weight: 721;
+}
+
+.font-weight-722 {
+    font-weight: 722;
+}
+
+.font-weight-723 {
+    font-weight: 723;
+}
+
+.font-weight-724 {
+    font-weight: 724;
+}
+
+.font-weight-725 {
+    font-weight: 725;
+}
+
+.font-weight-726 {
+    font-weight: 726;
+}
+
+.font-weight-727 {
+    font-weight: 727;
+}
+
+.font-weight-728 {
+    font-weight: 728;
+}
+
+.font-weight-729 {
+    font-weight: 729;
+}
+
+.font-weight-730 {
+    font-weight: 730;
+}
+
+.font-weight-731 {
+    font-weight: 731;
+}
+
+.font-weight-732 {
+    font-weight: 732;
+}
+
+.font-weight-733 {
+    font-weight: 733;
+}
+
+.font-weight-734 {
+    font-weight: 734;
+}
+
+.font-weight-735 {
+    font-weight: 735;
+}
+
+.font-weight-736 {
+    font-weight: 736;
+}
+
+.font-weight-737 {
+    font-weight: 737;
+}
+
+.font-weight-738 {
+    font-weight: 738;
+}
+
+.font-weight-739 {
+    font-weight: 739;
+}
+
+.font-weight-740 {
+    font-weight: 740;
+}
+
+.font-weight-741 {
+    font-weight: 741;
+}
+
+.font-weight-742 {
+    font-weight: 742;
+}
+
+.font-weight-743 {
+    font-weight: 743;
+}
+
+.font-weight-744 {
+    font-weight: 744;
+}
+
+.font-weight-745 {
+    font-weight: 745;
+}
+
+.font-weight-746 {
+    font-weight: 746;
+}
+
+.font-weight-747 {
+    font-weight: 747;
+}
+
+.font-weight-748 {
+    font-weight: 748;
+}
+
+.font-weight-749 {
+    font-weight: 749;
+}
+
+.font-weight-750 {
+    font-weight: 750;
+}
+
+.font-weight-751 {
+    font-weight: 751;
+}
+
+.font-weight-752 {
+    font-weight: 752;
+}
+
+.font-weight-753 {
+    font-weight: 753;
+}
+
+.font-weight-754 {
+    font-weight: 754;
+}
+
+.font-weight-755 {
+    font-weight: 755;
+}
+
+.font-weight-756 {
+    font-weight: 756;
+}
+
+.font-weight-757 {
+    font-weight: 757;
+}
+
+.font-weight-758 {
+    font-weight: 758;
+}
+
+.font-weight-759 {
+    font-weight: 759;
+}
+
+.font-weight-760 {
+    font-weight: 760;
+}
+
+.font-weight-761 {
+    font-weight: 761;
+}
+
+.font-weight-762 {
+    font-weight: 762;
+}
+
+.font-weight-763 {
+    font-weight: 763;
+}
+
+.font-weight-764 {
+    font-weight: 764;
+}
+
+.font-weight-765 {
+    font-weight: 765;
+}
+
+.font-weight-766 {
+    font-weight: 766;
+}
+
+.font-weight-767 {
+    font-weight: 767;
+}
+
+.font-weight-768 {
+    font-weight: 768;
+}
+
+.font-weight-769 {
+    font-weight: 769;
+}
+
+.font-weight-770 {
+    font-weight: 770;
+}
+
+.font-weight-771 {
+    font-weight: 771;
+}
+
+.font-weight-772 {
+    font-weight: 772;
+}
+
+.font-weight-773 {
+    font-weight: 773;
+}
+
+.font-weight-774 {
+    font-weight: 774;
+}
+
+.font-weight-775 {
+    font-weight: 775;
+}
+
+.font-weight-776 {
+    font-weight: 776;
+}
+
+.font-weight-777 {
+    font-weight: 777;
+}
+
+.font-weight-778 {
+    font-weight: 778;
+}
+
+.font-weight-779 {
+    font-weight: 779;
+}
+
+.font-weight-780 {
+    font-weight: 780;
+}
+
+.font-weight-781 {
+    font-weight: 781;
+}
+
+.font-weight-782 {
+    font-weight: 782;
+}
+
+.font-weight-783 {
+    font-weight: 783;
+}
+
+.font-weight-784 {
+    font-weight: 784;
+}
+
+.font-weight-785 {
+    font-weight: 785;
+}
+
+.font-weight-786 {
+    font-weight: 786;
+}
+
+.font-weight-787 {
+    font-weight: 787;
+}
+
+.font-weight-788 {
+    font-weight: 788;
+}
+
+.font-weight-789 {
+    font-weight: 789;
+}
+
+.font-weight-790 {
+    font-weight: 790;
+}
+
+.font-weight-791 {
+    font-weight: 791;
+}
+
+.font-weight-792 {
+    font-weight: 792;
+}
+
+.font-weight-793 {
+    font-weight: 793;
+}
+
+.font-weight-794 {
+    font-weight: 794;
+}
+
+.font-weight-795 {
+    font-weight: 795;
+}
+
+.font-weight-796 {
+    font-weight: 796;
+}
+
+.font-weight-797 {
+    font-weight: 797;
+}
+
+.font-weight-798 {
+    font-weight: 798;
+}
+
+.font-weight-799 {
+    font-weight: 799;
+}
+
+.font-weight-800 {
+    font-weight: 800;
+}
+
+.font-weight-801 {
+    font-weight: 801;
+}
+
+.font-weight-802 {
+    font-weight: 802;
+}
+
+.font-weight-803 {
+    font-weight: 803;
+}
+
+.font-weight-804 {
+    font-weight: 804;
+}
+
+.font-weight-805 {
+    font-weight: 805;
+}
+
+.font-weight-806 {
+    font-weight: 806;
+}
+
+.font-weight-807 {
+    font-weight: 807;
+}
+
+.font-weight-808 {
+    font-weight: 808;
+}
+
+.font-weight-809 {
+    font-weight: 809;
+}
+
+.font-weight-810 {
+    font-weight: 810;
+}
+
+.font-weight-811 {
+    font-weight: 811;
+}
+
+.font-weight-812 {
+    font-weight: 812;
+}
+
+.font-weight-813 {
+    font-weight: 813;
+}
+
+.font-weight-814 {
+    font-weight: 814;
+}
+
+.font-weight-815 {
+    font-weight: 815;
+}
+
+.font-weight-816 {
+    font-weight: 816;
+}
+
+.font-weight-817 {
+    font-weight: 817;
+}
+
+.font-weight-818 {
+    font-weight: 818;
+}
+
+.font-weight-819 {
+    font-weight: 819;
+}
+
+.font-weight-820 {
+    font-weight: 820;
+}
+
+.font-weight-821 {
+    font-weight: 821;
+}
+
+.font-weight-822 {
+    font-weight: 822;
+}
+
+.font-weight-823 {
+    font-weight: 823;
+}
+
+.font-weight-824 {
+    font-weight: 824;
+}
+
+.font-weight-825 {
+    font-weight: 825;
+}
+
+.font-weight-826 {
+    font-weight: 826;
+}
+
+.font-weight-827 {
+    font-weight: 827;
+}
+
+.font-weight-828 {
+    font-weight: 828;
+}
+
+.font-weight-829 {
+    font-weight: 829;
+}
+
+.font-weight-830 {
+    font-weight: 830;
+}
+
+.font-weight-831 {
+    font-weight: 831;
+}
+
+.font-weight-832 {
+    font-weight: 832;
+}
+
+.font-weight-833 {
+    font-weight: 833;
+}
+
+.font-weight-834 {
+    font-weight: 834;
+}
+
+.font-weight-835 {
+    font-weight: 835;
+}
+
+.font-weight-836 {
+    font-weight: 836;
+}
+
+.font-weight-837 {
+    font-weight: 837;
+}
+
+.font-weight-838 {
+    font-weight: 838;
+}
+
+.font-weight-839 {
+    font-weight: 839;
+}
+
+.font-weight-840 {
+    font-weight: 840;
+}
+
+.font-weight-841 {
+    font-weight: 841;
+}
+
+.font-weight-842 {
+    font-weight: 842;
+}
+
+.font-weight-843 {
+    font-weight: 843;
+}
+
+.font-weight-844 {
+    font-weight: 844;
+}
+
+.font-weight-845 {
+    font-weight: 845;
+}
+
+.font-weight-846 {
+    font-weight: 846;
+}
+
+.font-weight-847 {
+    font-weight: 847;
+}
+
+.font-weight-848 {
+    font-weight: 848;
+}
+
+.font-weight-849 {
+    font-weight: 849;
+}
+
+.font-weight-850 {
+    font-weight: 850;
+}
+
+.font-weight-851 {
+    font-weight: 851;
+}
+
+.font-weight-852 {
+    font-weight: 852;
+}
+
+.font-weight-853 {
+    font-weight: 853;
+}
+
+.font-weight-854 {
+    font-weight: 854;
+}
+
+.font-weight-855 {
+    font-weight: 855;
+}
+
+.font-weight-856 {
+    font-weight: 856;
+}
+
+.font-weight-857 {
+    font-weight: 857;
+}
+
+.font-weight-858 {
+    font-weight: 858;
+}
+
+.font-weight-859 {
+    font-weight: 859;
+}
+
+.font-weight-860 {
+    font-weight: 860;
+}
+
+.font-weight-861 {
+    font-weight: 861;
+}
+
+.font-weight-862 {
+    font-weight: 862;
+}
+
+.font-weight-863 {
+    font-weight: 863;
+}
+
+.font-weight-864 {
+    font-weight: 864;
+}
+
+.font-weight-865 {
+    font-weight: 865;
+}
+
+.font-weight-866 {
+    font-weight: 866;
+}
+
+.font-weight-867 {
+    font-weight: 867;
+}
+
+.font-weight-868 {
+    font-weight: 868;
+}
+
+.font-weight-869 {
+    font-weight: 869;
+}
+
+.font-weight-870 {
+    font-weight: 870;
+}
+
+.font-weight-871 {
+    font-weight: 871;
+}
+
+.font-weight-872 {
+    font-weight: 872;
+}
+
+.font-weight-873 {
+    font-weight: 873;
+}
+
+.font-weight-874 {
+    font-weight: 874;
+}
+
+.font-weight-875 {
+    font-weight: 875;
+}
+
+.font-weight-876 {
+    font-weight: 876;
+}
+
+.font-weight-877 {
+    font-weight: 877;
+}
+
+.font-weight-878 {
+    font-weight: 878;
+}
+
+.font-weight-879 {
+    font-weight: 879;
+}
+
+.font-weight-880 {
+    font-weight: 880;
+}
+
+.font-weight-881 {
+    font-weight: 881;
+}
+
+.font-weight-882 {
+    font-weight: 882;
+}
+
+.font-weight-883 {
+    font-weight: 883;
+}
+
+.font-weight-884 {
+    font-weight: 884;
+}
+
+.font-weight-885 {
+    font-weight: 885;
+}
+
+.font-weight-886 {
+    font-weight: 886;
+}
+
+.font-weight-887 {
+    font-weight: 887;
+}
+
+.font-weight-888 {
+    font-weight: 888;
+}
+
+.font-weight-889 {
+    font-weight: 889;
+}
+
+.font-weight-890 {
+    font-weight: 890;
+}
+
+.font-weight-891 {
+    font-weight: 891;
+}
+
+.font-weight-892 {
+    font-weight: 892;
+}
+
+.font-weight-893 {
+    font-weight: 893;
+}
+
+.font-weight-894 {
+    font-weight: 894;
+}
+
+.font-weight-895 {
+    font-weight: 895;
+}
+
+.font-weight-896 {
+    font-weight: 896;
+}
+
+.font-weight-897 {
+    font-weight: 897;
+}
+
+.font-weight-898 {
+    font-weight: 898;
+}
+
+.font-weight-899 {
+    font-weight: 899;
+}
+
+.font-weight-900 {
+    font-weight: 900;
+}
+
+.m-0 {
+    margin: 0px !important;
+}
+
+.mt-0 {
+    margin-top: 0px !important;
+}
+
+.mr-0 {
+    margin-right: 0px !important;
+}
+
+.ml-0 {
+    margin-left: 0px !important;
+}
+
+.mx-0 {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.my-0 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.p-0 {
+    padding: 0px !important;
+}
+
+.pt-0 {
+    padding-top: 0px !important;
+}
+
+.pr-0 {
+    padding-right: 0px !important;
+}
+
+.pb-0 {
+    padding-bottom: 0px !important;
+}
+
+.pl-0 {
+    padding-left: 0px !important;
+}
+
+.px-0 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.py-0 {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.m-8 {
+    margin: 8px !important;
+}
+
+.mt-8 {
+    margin-top: 8px !important;
+}
+
+.mr-8 {
+    margin-right: 8px !important;
+}
+
+.mb-8 {
+    margin-bottom: 8px !important;
+}
+
+.ml-8 {
+    margin-left: 8px !important;
+}
+
+.mx-8 {
+    margin-left: 8px !important;
+    margin-right: 8px !important;
+}
+
+.my-8 {
+    margin-top: 8px !important;
+    margin-bottom: 8px !important;
+}
+
+.p-8 {
+    padding: 8px !important;
+}
+
+.pt-8 {
+    padding-top: 8px !important;
+}
+
+.pr-8 {
+    padding-right: 8px !important;
+}
+
+.pb-8 {
+    padding-bottom: 8px !important;
+}
+
+.pl-8 {
+    padding-left: 8px !important;
+}
+
+.px-8 {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
+
+.py-8 {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+
+.m-12 {
+    margin: 12px !important;
+}
+
+.mt-12 {
+    margin-top: 12px !important;
+}
+
+.mr-12 {
+    margin-right: 12px !important;
+}
+
+.mb-12 {
+    margin-bottom: 12px !important;
+}
+
+.ml-12 {
+    margin-left: 12px !important;
+}
+
+.mx-12 {
+    margin-left: 12px !important;
+    margin-right: 12px !important;
+}
+
+.ms, .mx {
+    margin-left: auto !important;
+}
+
+.my-12 {
+    margin-top: 12px !important;
+    margin-bottom: 12px !important;
+}
+
+.p-12 {
+    padding: 12px !important;
+}
+
+.pt-12 {
+    padding-top: 12px !important;
+}
+
+.pr-12 {
+    padding-right: 12px !important;
+}
+
+.pb-12 {
+    padding-bottom: 12px !important;
+}
+
+.pl-12 {
+    padding-left: 12px !important;
+}
+
+.px-12 {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+}
+
+.py-12 {
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+}
+
+.m-16 {
+    margin: 16px !important;
+}
+
+.mt-16 {
+    margin-top: 16px !important;
+}
+
+.mr-16 {
+    margin-right: 16px !important;
+}
+
+.mb-16 {
+    margin-bottom: 16px !important;
+}
+
+.ml-16 {
+    margin-left: 16px !important;
+}
+
+.mx-16 {
+    margin-left: 16px !important;
+    margin-right: 16px !important;
+}
+
+.my-16 {
+    margin-top: 16px !important;
+    margin-bottom: 16px !important;
+}
+
+.p-16 {
+    padding: 16px !important;
+}
+
+.pt-16 {
+    padding-top: 16px !important;
+}
+
+.pr-16 {
+    padding-right: 16px !important;
+}
+
+.pb-16 {
+    padding-bottom: 16px !important;
+}
+
+.pl-16 {
+    padding-left: 16px !important;
+}
+
+.px-16 {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+}
+
+.py-16 {
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+}
+
+.m-24 {
+    margin: 24px !important;
+}
+
+.mt-24 {
+    margin-top: 24px !important;
+}
+
+.mr-24 {
+    margin-right: 24px !important;
+}
+
+.mb-24 {
+    margin-bottom: 24px !important;
+}
+
+.ml-24 {
+    margin-left: 24px !important;
+}
+
+.mx-24 {
+    margin-left: 24px !important;
+    margin-right: 24px !important;
+}
+
+.my-24 {
+    margin-top: 24px !important;
+    margin-bottom: 24px !important;
+}
+
+.p-24 {
+    padding: 24px !important;
+}
+
+.pt-24 {
+    padding-top: 24px !important;
+}
+
+.pr-24 {
+    padding-right: 24px !important;
+}
+
+.pb-24 {
+    padding-bottom: 24px !important;
+}
+
+.pl-24 {
+    padding-left: 24px !important;
+}
+
+.px-24 {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+}
+
+.py-24 {
+    padding-top: 24px !important;
+    padding-bottom: 24px !important;
+}
+
+.m-28 {
+    margin: 28px !important;
+}
+
+.mt-28 {
+    margin-top: 28px !important;
+}
+
+.mr-28 {
+    margin-right: 28px !important;
+}
+
+.mb-28 {
+    margin-bottom: 28px !important;
+}
+
+.ml-28 {
+    margin-left: 28px !important;
+}
+
+.mx-28 {
+    margin-left: 28px !important;
+    margin-right: 28px !important;
+}
+
+.my-28 {
+    margin-top: 28px !important;
+    margin-bottom: 28px !important;
+}
+
+.p-28 {
+    padding: 28px !important;
+}
+
+.pt-28 {
+    padding-top: 28px !important;
+}
+
+.pr-28 {
+    padding-right: 28px !important;
+}
+
+.pb-28 {
+    padding-bottom: 28px !important;
+}
+
+.pl-28 {
+    padding-left: 28px !important;
+}
+
+.px-28 {
+    padding-left: 28px !important;
+    padding-right: 28px !important;
+}
+
+.py-28 {
+    padding-top: 28px !important;
+    padding-bottom: 28px !important;
+}
+
+.m-32 {
+    margin: 32px !important;
+}
+
+.mt-32 {
+    margin-top: 32px !important;
+}
+
+.mr-32 {
+    margin-right: 32px !important;
+}
+
+.mb-32 {
+    margin-bottom: 32px !important;
+}
+
+.ml-32 {
+    margin-left: 32px !important;
+}
+
+.mx-32 {
+    margin-left: 32px !important;
+    margin-right: 32px !important;
+}
+
+.my-32 {
+    margin-top: 32px !important;
+    margin-bottom: 32px !important;
+}
+
+.p-32 {
+    padding: 32px !important;
+}
+
+.pt-32 {
+    padding-top: 32px !important;
+}
+
+.pr-32 {
+    padding-right: 32px !important;
+}
+
+.pb-32 {
+    padding-bottom: 32px !important;
+}
+
+.pl-32 {
+    padding-left: 32px !important;
+}
+
+.px-32 {
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+}
+
+.py-32 {
+    padding-top: 32px !important;
+    padding-bottom: 32px !important;
+}
+
+.m-36 {
+    margin: 36px !important;
+}
+
+.mt-36 {
+    margin-top: 36px !important;
+}
+
+.mr-36 {
+    margin-right: 36px !important;
+}
+
+.mb-36 {
+    margin-bottom: 36px !important;
+}
+
+.ml-36 {
+    margin-left: 36px !important;
+}
+
+.mx-36 {
+    margin-left: 36px !important;
+    margin-right: 36px !important;
+}
+
+.my-36 {
+    margin-top: 36px !important;
+    margin-bottom: 36px !important;
+}
+
+.p-36 {
+    padding: 36px !important;
+}
+
+.pt-36 {
+    padding-top: 36px !important;
+}
+
+.pr-36 {
+    padding-right: 36px !important;
+}
+
+.pb-36 {
+    padding-bottom: 36px !important;
+}
+
+.pl-36 {
+    padding-left: 36px !important;
+}
+
+.px-36 {
+    padding-left: 36px !important;
+    padding-right: 36px !important;
+}
+
+.py-36 {
+    padding-top: 36px !important;
+    padding-bottom: 36px !important;
+}
+
+.m-40 {
+    margin: 40px !important;
+}
+
+.mt-40 {
+    margin-top: 40px !important;
+}
+
+.mr-40 {
+    margin-right: 40px !important;
+}
+
+.mb-40 {
+    margin-bottom: 40px !important;
+}
+
+.ml-40 {
+    margin-left: 40px !important;
+}
+
+.mx-40 {
+    margin-left: 40px !important;
+    margin-right: 40px !important;
+}
+
+.my-40 {
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+}
+
+.p-40 {
+    padding: 40px !important;
+}
+
+.pt-40 {
+    padding-top: 40px !important;
+}
+
+.pr-40 {
+    padding-right: 40px !important;
+}
+
+.pb-40 {
+    padding-bottom: 40px !important;
+}
+
+.pl-40 {
+    padding-left: 40px !important;
+}
+
+.px-40 {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+
+.py-40 {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+}
+
+.m-44 {
+    margin: 44px !important;
+}
+
+.mt-44 {
+    margin-top: 44px !important;
+}
+
+.mr-44 {
+    margin-right: 44px !important;
+}
+
+.mb-44 {
+    margin-bottom: 44px !important;
+}
+
+.ml-44 {
+    margin-left: 44px !important;
+}
+
+.mx-44 {
+    margin-left: 44px !important;
+    margin-right: 44px !important;
+}
+
+.my-44 {
+    margin-top: 44px !important;
+    margin-bottom: 44px !important;
+}
+
+.p-44 {
+    padding: 44px !important;
+}
+
+.pt-44 {
+    padding-top: 44px !important;
+}
+
+.pr-44 {
+    padding-right: 44px !important;
+}
+
+.pb-44 {
+    padding-bottom: 44px !important;
+}
+
+.pl-44 {
+    padding-left: 44px !important;
+}
+
+.px-44 {
+    padding-left: 44px !important;
+    padding-right: 44px !important;
+}
+
+.py-44 {
+    padding-top: 44px !important;
+    padding-bottom: 44px !important;
+}
+
+.m-48 {
+    margin: 48px !important;
+}
+
+.mt-48 {
+    margin-top: 48px !important;
+}
+
+.mr-48 {
+    margin-right: 48px !important;
+}
+
+.mb-48 {
+    margin-bottom: 48px !important;
+}
+
+.ml-48 {
+    margin-left: 48px !important;
+}
+
+.mx-48 {
+    margin-left: 48px !important;
+    margin-right: 48px !important;
+}
+
+.my-48 {
+    margin-top: 48px !important;
+    margin-bottom: 48px !important;
+}
+
+.p-48 {
+    padding: 48px !important;
+}
+
+.pt-48 {
+    padding-top: 48px !important;
+}
+
+.pr-48 {
+    padding-right: 48px !important;
+}
+
+.pb-48 {
+    padding-bottom: 48px !important;
+}
+
+.pb-80 {
+    padding-bottom: 80px;
+}
+
+.pl-48 {
+    padding-left: 48px !important;
+}
+
+.px-48 {
+    padding-left: 48px !important;
+    padding-right: 48px !important;
+}
+
+.py-48 {
+    padding-top: 48px !important;
+    padding-bottom: 48px !important;
+}
+
+.m-auto {
+    margin: auto !important;
+}
+
+.mx-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.my-auto {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+}
+
+/*-------------------------------------------------------------------*/
+/* === Auth Layout === */
+.auth-layout-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-size: cover
+}
+
+.auth-layout-wrap .auth-content {
+    min-height: 1px;
+    max-width: 440px;
+    margin: auto;
+    position: relative;
+    width: 100%;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    padding-bottom: 3rem;
+}
+
+.auth-logo img, svg {
+    width: 100px;
+    height: 100px
+}
+
+@media (min-width:1024px) {
+    .auth-layout-wrap .auth-content {
+        min-width: 440px;
+    }
+}
+
+@media (max-width:767px) {
+    .auth-layout-wrap .auth-content {
+        padding: 15px
+    }
+
+    .auth-right {
+        padding: 80px 15px
+    }
+}
+
+/*-------------------------------------------------------------------*/
+/* === App Layout === */
+.app {
+    width: 100%;
+}
+
+.main-content-wrap {
+    width: 100%;
+    float: right;
+    margin-top: 80px;
+    transition: all .24s ease-in-out;
+    padding: 2rem 2rem 0;
+    position: relative;
+    min-height: calc(100vh - 80px);
+    background: var(--white);
+}
+
+.main-content-wrap.sidenav-open {
+    width: calc(100% - 120px);
+}
+
+.module-loader {
+    position: fixed;
+    background: var(--white-500);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 9;
+}
+
+.module-loader .loader,
+.module-loader .spinner {
+    position: fixed;
+    top: 45%;
+    left: calc(50% + 56px);
+    z-index: inherit;
+}
+
+@media (max-width: 576px) {
+    .main-content-wrap {
+        padding: 1.5rem;
+    }
+
+    .main-content-wrap.sidenav-open {
+        width: 100%;
+    }
+
+    .main-content-wrap {
+        margin-top: 70px;
+    }
+
+    .brand-logo-mini {
+        display: none;
+    }
+}
+
+.app-footer {
+    margin-top: 2rem;
+    background: var(--gray-200);
+    padding: 1.25rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.app-footer .footer-bottom {
+    width: 100%;
+}
+
+.app-footer .footer-bottom .logo {
+    width: 1.2rem;
+    height: 1rem;
+    margin: 4px;
+}
+
+.layout-sidebar-vertical .main-content-wrap {
+    width: 100%;
+    min-height: 100vh;
+    float: right;
+}
+
+
+.layout-sidebar-vertical .main-content-wrap .main-header {
+    border-radius: 5px;
+    height: 64px;
+}
+
+.layout-sidebar-vertical .main-content-wrap .main-header .header-toggle {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.layout-sidebar-vertical .main-content-wrap .main-header .header-toggle .sidebar-full-toggle,
+.layout-sidebar-vertical .main-content-wrap .main-header .header-toggle .sidebar-compact-toggle {
+    vertical-align: middle;
+    padding: 0;
+    min-width: 0;
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    background: none;
+}
+
+.layout-sidebar-vertical .main-content-wrap .main-header .header-toggle .sidebar-full-toggle i,
+.layout-sidebar-vertical .main-content-wrap .main-header .header-toggle .sidebar-compact-toggle i {
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+}
+
+.layout-sidebar-vertical .main-content-wrap .main-header .header-dropdown .dropdown-menu .dropdown-item {
+    flex-flow: row;
+    color: var(--gray);
+    left: auto !important;
+    right: 12px !important;
+}
+
+.brand-logo img {
+    width: 20vh;
+    margin-right: 5px;
+}
+
+.brand-logo-mini img {
+    width: 60px;
+    margin-right: 5px;
+}
+
+.layout-sidebar-vertical .sidebar-panel {
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: -240px;
+    width: 240px;
+    z-index: 1000;
+    box-shadow: 0 1px 15px rgba(0, 0, 0, 0.04), 0 1px 6px rgba(0, 0, 0, 0.04);
+    background: var(--white);
+}
+
+.layout-sidebar-vertical .sidebar-panel .brand {
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.layout-sidebar-vertical .sidebar-panel .brand img {
+    height: 20px;
+}
+
+.layout-sidebar-vertical .sidebar-panel .sidebar-compact-switch {
+    position: relative;
+    width: 24px;
+    height: 12px;
+    border-radius: 10px;
+    border: 1px solid var(--gray);
+    transition: all 0.3s ease-in;
+    cursor: pointer;
+}
+
+.layout-sidebar-vertical .sidebar-panel .sidebar-compact-switch span {
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--gray-500);
+    transition: all 0.3s ease-in;
+}
+
+.layout-sidebar-vertical .sidebar-panel .scroll-nav {
+    height: calc(100vh - 64px);
+}
+
+.layout-sidebar-vertical .sidebar-panel .side-nav .icon-menu-title,
+.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu-title {
+    color: var(--gray);
+    font-size: 12px;
+    padding: 16px 0 16px 16px;
+    display: block;
+}
+
+
+.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul {
+    padding: 0 12px;
+}
+
+.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li {
+    list-style: none;
+    font-size: 15px;
+}
+
+.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li a {
+    color: var(--gray-900);
+    display: flex;
+    align-items: center;
+    height: 35px;
+    padding: 0px 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li a .nav-icon {
+    margin-right: 10px;
+}
+
+.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li a .item-name {
+    text-transform: capitalize;
+    font-size: 15px;
+}
+
+.layout-sidebar-vertical .sidebar-panel .side-nav .main-menu ul li a:hover {
+    text-decoration: none;
+}
+
+.app.sidebar-full.sidebar-closed .sidebar-panel {
+    left: -240px;
+}
+
+.app.sidebar-full.sidebar-closed .main-content-wrap {
+    width: 100%;
+}
+
+.app.sidebar-full .sidebar-panel {
+    width: 240px;
+    left: 0px;
+}
+
+.app.sidebar-full .sidebar-panel .brand-logo-mini {
+    display: none;
+}
+
+.app.sidebar-full .main-content-wrap {
+    width: calc(100% - 240px);
+    padding: .6rem 1rem 0rem;
+}
+
+.app.sidebar-compact .sidebar-panel {
+    width: 75px;
+    left: 0;
+}
+
+.app.sidebar-compact .sidebar-panel .icon-menu-title,
+.app.sidebar-compact .sidebar-panel .main-menu-title,
+.app.sidebar-compact .sidebar-panel .item-name,
+.app.sidebar-compact .sidebar-panel .brand-logo {
+    display: none;
+
+}
+
+.app.sidebar-compact .sidebar-panel .sidebar-compact-switch {
+    display: none;
+}
+
+.app.sidebar-compact .sidebar-panel .icon-menu-item {
+    flex-direction: column;
+    padding: 0;
+}
+
+.app.sidebar-compact .sidebar-panel .icon-menu-item a {
+    width: 100%;
+    display: contents;
+}
+
+.app.sidebar-compact .sidebar-panel .icon-menu-item a i {
+    padding: 5px;
+    font-size: 30px;
+}
+
+.app.sidebar-compact .sidebar-panel .icon-menu-item a:hover {
+    cursor: pointer;
+    padding: 0px 10px;
+}
+
+.app.sidebar-compact .sidebar-panel .main-menu ul li a i {
+    padding: 0;
+}
+
+.app.sidebar-compact .sidebar-panel .main-menu ul li a i a {
+    width: 100%;
+    display: contents;
+}
+
+.app.sidebar-compact .sidebar-panel .main-menu ul li a i a i {
+    padding: 5px;
+    font-size: 30px;
+}
+
+.app.sidebar-compact .sidebar-panel .main-menu ul li a i a:hover {
+    cursor: pointer;
+    padding: 0px 10px;
+}
+
+.app.sidebar-compact .sidebar-panel .main-menu ul li a .main-menu ul li a i {
+    padding: 0;
+}
+
+.app.sidebar-compact .sidebar-panel .main-menu ul li a .main-menu .dropdown {
+    display: none;
+}
+
+.app.sidebar-compact .sidebar-panel .main-menu .dropdown {
+    display: none;
+}
+
+.app.sidebar-compact .main-content-wrap {
+    width: calc(100% - 65px);
+    padding: .6rem 1.5rem 0rem;
+}
+
+.app.sidebar-compact .main-content-wrap .main-header {
+    height: 64px;
+}
+
+.main-content-wrap.sidebar-full-z-index {
+    width: calc(100% - 65px) !important;
+    z-index: -100;
+}
+
+ul.metismenu {
+    position: relative;
+}
+
+.Ul_li--hover::before {
+    content: "";
+    background-color: var(--primary);
+    position: absolute;
+    height: 36px;
+    width: 225px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    opacity: 0.1;
+    left: -233px;
+    transition: all 400ms ease;
+}
+
+.Ul_li--hover:hover::before {
+    left: 0px;
+    transition: all 300ms ease;
+    z-index: -1;
+}
+
+.metismenu .has-arrow:after {
+    right: 2em !important;
+    opacity: 0.6 !important;
+    width: 0.6em !important;
+    height: 0.6em !important;
+    border-width: 2px 0 0 2px !important;
+}
+
+.header-toggle .mobile-menu-icon {
+    display: none !important;
+}
+
+.has-arrow.without-after-element:after {
+    content: none !important;
+}
+
+.sidebar-overlay {
+    display: none;
+}
+
+@media only screen and (max-width: 1150px) {
+    .sidebar-switch-open {
+        left: 0px !important;
+    }
+
+    .app.sidebar-full .sidebar-panel {
+        left: -240px;
+    }
+
+    .header-toggle .mobile-menu-icon {
+        display: block !important;
+    }
+
+    .switch-overlay {
+        height: calc(100vh - 70px);
+        display: block;
+        position: fixed;
+        width: calc(100% - 240px);
+        height: calc(100vh - 5px);
+        bottom: 0;
+        right: 0;
+        background: rgba(0, 0, 0, 0);
+        z-index: 20000;
+        cursor: w-resize;
+    }
+
+    .app.sidebar-full .main-content-wrap {
+        width: calc(100% - 0px);
+    }
+
+    .sidebar-compact-switch {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    .mobile-hide {
+        display: none !important;
+    }
+}
+
+.has-arrow.without-after-element:after {
+    content: none !important;
+}
+
+.sidebar-panel,
+.main-content-wrap,
+.main-header {
+    transition: all 0.2s ease-in;
+}
+
+.main-content-wrap {
+    width: 100%;
+    min-height: 100vh;
+    float: right;
+}
+
+.main-content-wrap .main-content-body {
+    padding: 0.66rem;
+}
+
+.app.sidebar-compact-onhover .sidebar-compact-switch {
+    background: var(--primary);
+}
+
+.app.sidebar-compact-onhover .sidebar-compact-switch span {
+    left: 14px;
+    background: var(--white);
+}
+
+.bg-off-white {
+    background-color: #f9f9f9;
+}
+
+.main-header {
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    box-shadow: 0 1px 15px rgba(0, 0, 0, 0.04), 0 1px 6px rgba(0, 0, 0, 0.04);
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: var(--white);
+    /* z-index: 100; */
+}
+
+.main-header {
+    position: relative;
+}
+
+.main-header .menu-toggle {
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 12px;
+}
+
+.main-header .menu-toggle div {
+    width: 24px;
+    height: 1px;
+    background: var(--gray-900);
+    margin: 3px 0;
+}
+
+.main-header .menu-toggle i {
+    width: 24px;
+    height: 1px;
+    margin: 3px 0;
+    font-size: 24px;
+}
+
+.main-header .header-part-right {
+    display: flex;
+    align-items: center;
+}
+
+.main-header .header-part-right .user {
+    margin-right: 2rem;
+}
+
+.main-header .header-part-right .user img {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+
+.main-header .header-icon {
+    font-size: 19px;
+    cursor: pointer;
+    height: 36px;
+    width: 36px;
+    line-height: 36px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 8px;
+    margin: 0 2px;
+}
+
+.main-header .header-icon:hover {
+    background: #f8f9fa;
+}
+
+@media (max-width: 991px) {
+    .main-header .menu-toggle {
+        width: 24px;
+        margin-right: 36px;
+    }
+}
+
+@media (max-width: 580px) {
+    .main-header {
+        height: 70px;
+        padding: 0 1.5rem;
+    }
+
+    .main-header .menu-toggle {
+        width: 60px;
+    }
+}
+
+@media (max-width: 360px) {
+    .main-header .menu-toggle {
+        margin: 0;
+    }
+}
+
+/*-------------------------------------------------------------------*/
+/* === Main Content === */
+/* avatar */
+.avatar-sm {
+    width: 36px;
+    height: 36px;
+}
+
+.avatar-md {
+    width: 54px;
+    height: 54px;
+}
+
+.avatar-lg {
+    width: 80px;
+    height: 80px;
+}
+
+.avatar-xl {
+    width: 150px;
+    height: 150px;
+}
+
+.avatar-sm-table {
+    width: 20px;
+    height: 20px;
+}
+
+/* card */
+.card-layout {
+    text-align: left;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px 1px rgba(0, 0, 0, 0.06), 0 1px 4px rgba(0, 0, 0, 0.08);
+    border: 0;
+}
+
+.card-layout-title {
+    font-size: 1rem;
+    margin-bottom: .5rem;
+    flex-direction: column;
+    align-items: center;
+    float: left;
+}
+
+.card-layout-header {
+    height: 50px;
+}
+
+.breadcrumb {
+    background: transparent;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.2rem;
+}
+
+.breadcrumb>.breadcrumb-item+.breadcrumb-item:before {
+    content: none;
+}
+
+.separator-breadcrumb {
+    margin-bottom: 0.5rem;
+}
+
+/* elements */
+select,
+button,
+textarea,
+input {
+    vertical-align: baseline;
+}
+
+select.form-control {
+    -webkit-appearance: none;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+a,
+a:focus,
+a:hover {
+    color: var(--gray-900);
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+table > tbody > tr > td.table-number {
+    text-align: right;
+}
+
+.form-group {
+    position: relative;
+
+}
+
+.form-group label {
+    font-size: 12px;
+    color: var(--gray);
+}
+
+.form-control {
+    border: initial;
+    outline: initial !important;
+    border: 1px solid var(--gray-500);
+    color: var(--gray-900);
+}
+
+.form-control::placeholder {
+    color: var(--gray-500);
+}
+
+.form-control.rounded,
+.form-control.form-control-rounded,
+.form-control.form-control-text,
+.form-control.form-control-number {
+    border-radius: 4px;
+}
+
+.form-control.form-control-text {
+    text-align: left;
+}
+
+.form-control.form-control-number {
+    text-align: right;
+}
+
+.form-row-separator {
+    border: 6px;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: .5em;
+}
+
+.form-control-separator {
+    border-bottom: 1px dashed #ebedf2;
+    margin: 15px 0;
+}
+
+.btn.rounded,
+.btn.btn-rounded {
+    border-radius: 15px !important;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    padding-left: 50px;
+    height: 16px;
+}
+
+.switch span:not(.slider) {
+    position: relative;
+    top: -2px;
+    cursor: pointer;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.switch .slider {
+    position: absolute;
+    cursor: pointer;
+    width: 42px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 34px;
+    background-color: var(--gray-300);
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+
+.switch .slider:before {
+    position: absolute;
+    content: "";
+    height: 24px;
+    width: 24px;
+    left: -1px;
+    bottom: -4px;
+    background-color: var(--white);
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    border-radius: 50%;
+    box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
+.switch input:checked+.slider {
+    background-color: var(--primary);
+}
+
+.switch input:focus+.slider {
+    box-shadow: 0 0 1px var(--primary);
+}
+
+.switch input:checked+.slider:before {
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px);
+}
+
+.switch-primary input:checked+.slider {
+    background-color: var(--primary);
+}
+
+/*-------------------------------------------------------------------*/
+/* === User Profile === */
+.user-profile .header-cover {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50px;
+}
+
+.user-profile .user-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    z-index: 9;
+}
+
+.user-profile .profile-picture {
+    border-radius: 50%;
+    border: 4px solid var(--white);
+}
+
+.user-profile .profile-nav {
+    justify-content: center;
+}
+
+.activity {
+    position: relative;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.activity .activity-item {
+    position: relative;
+    width: 50%;
+    display: inline-block;
+}
+
+.activity .activity-item:nth-child(even) {
+    padding: 0 3rem 3rem 0;
+}
+
+.activity .activity-item:nth-child(even) .activity-badge {
+    left: calc(100% - 24px);
+}
+
+.activity .activity-item:nth-child(odd) {
+    float: right;
+    padding: 0 0 3rem 3rem;
+    margin-top: 6rem;
+}
+
+.activity .activity-item:nth-child(odd) .activity-badge {
+    right: calc(100% - 24px);
+}
+
+.activity .activity-item .activity-badge {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+}
+
+.activity .activity-item .badge-icon {
+    display: inline-block;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+    line-height: 48px;
+}
+
+.activity .activity-item .badge-img {
+    display: inline-block;
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+}
+
+.activity .activity-group {
+    position: relative;
+    z-index: 99;
+    padding: 0 0 2rem 0;
+}
+
+.activity .activity-line {
+    position: absolute;
+    content: "";
+    width: 1px;
+    height: 100%;
+    background: var(--gray-300);
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+@media (max-width: 767px) {
+    .user-profile .header-cover {
+        height: 200px;
+    }
+
+    .activity .activity-item {
+        width: 100%;
+        padding: 4rem 0 3rem !important;
+    }
+
+    .activity .activity-item:nth-child(odd) {
+        margin-top: 1rem;
+    }
+
+    .activity .activity-item .activity-badge {
+        left: 0 !important;
+        right: 0 !important;
+        top: -16px;
+        margin: auto;
+    }
+
+    .activity .activity-group {
+        padding: 0 0 3rem;
+    }
+}
+
+.nav-tabs {
+    border-bottom: 1px solid var(--primary);
+}
+
+.nav-tabs .nav-item .nav-link {
+    border: 0;
+    padding: 1rem;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+    border: 1px solid transparent;
+    background: var(--gray-100);
+    border-color: var(--primary) var(--primary) var(--white);
+}
+
+.tab-content {
+    padding: 0.8rem;
+}
+
+/*-------------------------------------------------------------------*/
+/* ===  === */
+.panel_toolbox {
+    float: right;
+    min-width: 70px
+}
+
+.panel_toolbox>li {
+    float: left;
+    cursor: pointer
+}
+
+.panel_toolbox>li>a {
+    padding: 5px;
+    color: #C5C7CB;
+    font-size: 20px
+}
+
+.panel_toolbox>li>a:hover {
+    background: #F5F7FA
+}
+
+.panel_arrow_up {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	cursor: pointer;
+	position:fixed;
+	right: 1rem;
+	bottom: 1rem;
+	display: none;
+}
+
+.panel_arrow_up::before, .panel_arrow_up::after {
+	position: absolute;
+	content: "";
+}
+
+.panel_arrow_up::focus {
+    outline: none;
+}
