@@ -1,15 +1,5 @@
 :root {
-    --bs-primary: #d3b5a1;
     --bs-link-color: var(--bs-gray-900);
-}
-
-.row {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -0.75rem;
-    margin-left: -0.75rem;
 }
 
 a,
@@ -86,7 +76,7 @@ a:hover {
     text-align: center;
     width: 60px;
     height: 60px;
-    background: var(--bs-primary);
+    background: #e7eefe;
     border-radius: 5px;
     position: relative;
     display: block;
@@ -165,7 +155,6 @@ a:hover {
 }
 
 .card-layout {
-    text-align: left;
     overflow: visible;
     border-radius: 10px;
     box-shadow: 0 4px 20px 1px rgba(0, 0, 0, 0.06), 0 1px 4px rgba(0, 0, 0, 0.08);
